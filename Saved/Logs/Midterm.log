@@ -2670,3 +2670,87 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.03-22.27.58:236][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 1.52 sec)
 [2024.04.03-22.27.58:237][517]AssetCheck: New page: Asset Save: Lab1
 [2024.04.03-22.27.58:237][517]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.03-22.28.40:811][179]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedKit/Medkit.Medkit
+[2024.04.03-22.28.40:812][179]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedKit/Medkit.Medkit
+[2024.04.03-22.28.40:812][179]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedKit/Medkit.Medkit as actor: StaticMeshActor /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_28
+[2024.04.03-22.28.41:281][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedKit/Medkit.Medkit
+[2024.04.03-22.28.41:281][217]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MedKit/Medkit.Medkit
+[2024.04.03-22.28.41:283][217]LogActorFactory: Actor Factory spawned StaticMesh /Game/MedKit/Medkit.Medkit as actor: StaticMeshActor /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_29
+[2024.04.03-22.28.46:747][707]LogViewport: Scene viewport resized to 967x830, mode Windowed.
+[2024.04.03-22.28.48:060][831]LogViewport: Scene viewport resized to 968x830, mode Windowed.
+[2024.04.03-22.28.48:090][832]LogViewport: Scene viewport resized to 994x830, mode Windowed.
+[2024.04.03-22.28.48:119][833]LogViewport: Scene viewport resized to 1064x830, mode Windowed.
+[2024.04.03-22.28.48:155][834]LogViewport: Scene viewport resized to 1183x830, mode Windowed.
+[2024.04.03-22.28.48:280][835]LogViewport: Scene viewport resized to 1465x830, mode Windowed.
+[2024.04.03-22.28.48:319][836]LogViewport: Scene viewport resized to 1499x830, mode Windowed.
+[2024.04.03-22.28.48:392][837]LogViewport: Scene viewport resized to 1537x830, mode Windowed.
+[2024.04.03-22.28.48:446][838]LogViewport: Scene viewport resized to 1584x830, mode Windowed.
+[2024.04.03-22.28.48:486][839]LogViewport: Scene viewport resized to 1610x830, mode Windowed.
+[2024.04.03-22.28.48:526][840]LogViewport: Scene viewport resized to 1611x830, mode Windowed.
+[2024.04.03-22.28.48:616][846]LogViewport: Scene viewport resized to 1610x830, mode Windowed.
+[2024.04.03-22.28.48:644][847]LogViewport: Scene viewport resized to 1606x830, mode Windowed.
+[2024.04.03-22.28.48:676][848]LogViewport: Scene viewport resized to 1601x830, mode Windowed.
+[2024.04.03-22.28.48:709][849]LogViewport: Scene viewport resized to 1596x830, mode Windowed.
+[2024.04.03-22.28.48:742][850]LogViewport: Scene viewport resized to 1588x830, mode Windowed.
+[2024.04.03-22.28.48:777][851]LogViewport: Scene viewport resized to 1582x830, mode Windowed.
+[2024.04.03-22.28.48:810][852]LogViewport: Scene viewport resized to 1577x830, mode Windowed.
+[2024.04.03-22.28.48:842][853]LogViewport: Scene viewport resized to 1569x830, mode Windowed.
+[2024.04.03-22.28.48:877][854]LogViewport: Scene viewport resized to 1561x830, mode Windowed.
+[2024.04.03-22.28.48:909][855]LogViewport: Scene viewport resized to 1559x830, mode Windowed.
+[2024.04.03-22.28.51:084][ 73]Cmd: DELETE
+[2024.04.03-22.28.51:084][ 73]Cmd: ACTOR DELETE
+[2024.04.03-22.28.51:087][ 73]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.03-22.28.51:102][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.04.03-22.28.51:104][ 73]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.04.03-22.28.56:243][519]Cmd: EDIT COPY
+[2024.04.03-22.28.56:518][547]Cmd: EDIT PASTE
+[2024.04.03-22.29.13:944][ 51]Cmd: EDIT COPY
+[2024.04.03-22.29.14:147][ 70]Cmd: EDIT PASTE
+[2024.04.03-22.29.34:239][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-22.29.34:316][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-22.29.34:349][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.03-22.29.34:392][832]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.03-22.29.34:393][832]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab133B77FA747B249AD728F869C8D125F4A.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.03-22.29.34:397][832]LogFileHelpers: Saving map 'Lab1' took 0.082
+[2024.04.03-22.29.34:404][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 1.69 sec)
+[2024.04.03-22.29.34:406][832]AssetCheck: New page: Asset Save: Lab1
+[2024.04.03-22.29.34:406][832]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.03-22.29.43:656][ 97]Cmd: EDIT COPY
+[2024.04.03-22.29.43:875][119]Cmd: EDIT PASTE
+[2024.04.03-22.29.59:261][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-22.29.59:344][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-22.29.59:376][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.03-22.29.59:415][415]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.03-22.29.59:416][415]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1A7A225D048D0E122DABA1498D28D301B.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.03-22.29.59:421][415]LogFileHelpers: Saving map 'Lab1' took 0.078
+[2024.04.03-22.29.59:428][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 1.86 sec)
+[2024.04.03-22.29.59:429][415]AssetCheck: New page: Asset Save: Lab1
+[2024.04.03-22.29.59:429][415]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.03-22.30.00:857][556]Cmd: EDIT COPY
+[2024.04.03-22.30.01:112][581]Cmd: EDIT PASTE
+[2024.04.03-22.30.15:732][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-22.30.15:817][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-22.30.15:850][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.04.03-22.30.15:891][775]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.03-22.30.15:892][775]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab151CB65EF4CA60F75E7C45EBF05F26AB5.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.03-22.30.15:896][775]LogFileHelpers: Saving map 'Lab1' took 0.079
+[2024.04.03-22.30.15:902][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 2.03 sec)
+[2024.04.03-22.30.15:903][775]AssetCheck: New page: Asset Save: Lab1
+[2024.04.03-22.30.15:903][775]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.03-22.30.17:482][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-22.30.17:560][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-22.30.17:591][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.03-22.30.17:631][918]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.03-22.30.17:632][918]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab170BF65904CEBC1F721C248B5EBA5E83C.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.03-22.30.17:637][918]LogFileHelpers: Saving map 'Lab1' took 0.077
+[2024.04.03-22.30.17:644][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 2.19 sec)
+[2024.04.03-22.30.17:646][918]AssetCheck: New page: Asset Save: Lab1
+[2024.04.03-22.30.17:646][918]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.03-22.30.19:324][ 81]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-22.30.19:324][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-22.30.19:784][112]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.03-22.30.19:785][112]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-22.30.19:785][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-22.30.20:299][149]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.03-22.30.20:299][149]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-22.30.20:299][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
