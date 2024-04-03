@@ -1131,3 +1131,1163 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.03-20.27.28:228][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2024.04.03-20.27.28:349][  2]LogD3D12RHI: Cannot end block when stack is empty
 [2024.04.03-20.29.19:966][414]LogDerivedDataCache: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.105 and deleted 0 files with total size 0 MiB and 123 empty folders. Scanned 553 files in 1053 folders with total size 3 MiB.
+[2024.04.03-20.37.41:718][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.03-20.37.41:824][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-20.37.41:832][ 40]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Lab1.Lab1
+[2024.04.03-20.37.41:833][ 40]Cmd: MAP LOAD FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.03-20.37.41:833][ 40]LightingResults: New page: Lighting Build
+[2024.04.03-20.37.41:833][ 40]LoadErrors: New page: Loading map: Lab1.umap
+[2024.04.03-20.37.41:860][ 40]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-20.37.41:861][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-20.37.41:866][ 40]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.03-20.37.41:867][ 40]MapCheck: New page: Map Check
+[2024.04.03-20.37.41:867][ 40]LightingResults: New page: Lighting Build
+[2024.04.03-20.37.41:870][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.03-20.37.41:880][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.04.03-20.37.41:885][ 40]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-20.37.41:885][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-20.37.41:891][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.03-20.37.41:894][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.03-20.37.41:904][ 40]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lab1'.
+[2024.04.03-20.37.41:904][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-20.37.41:904][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-20.37.41:904][ 40]LogAIModule: Creating AISystem for world Lab1
+[2024.04.03-20.37.41:959][ 40]LogScript: Warning: Accessed None trying to read property Key
+	BP_Key_C /Game/Lab1.Lab1:PersistentLevel.BP_Key_C_1
+	Function /Game/BP_Key.BP_Key_C:UserConstructionScript:000D
+[2024.04.03-20.37.41:959][ 40]LogScript: Warning: Accessed None trying to read property Key
+	BP_Key_C /Game/Lab1.Lab1:PersistentLevel.BP_Key_C_3
+	Function /Game/BP_Key.BP_Key_C:UserConstructionScript:000D
+[2024.04.03-20.37.41:976][ 40]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.03-20.37.41:982][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.03-20.37.41:985][ 40]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.03-20.37.41:985][ 40]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2024.04.03-20.37.41:999][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-20.37.42:331][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-20.37.42:462][ 44]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-20.37.42:466][ 44]LogScript: Warning: Accessed None trying to read property Key
+	BP_Key_C /Engine/Transient.World_2:PersistentLevel.BP_Key_C_0
+	Function /Game/BP_Key.BP_Key_C:UserConstructionScript:000D
+[2024.04.03-20.38.48:316][442]Cmd: DELETE
+[2024.04.03-20.38.48:316][442]Cmd: ACTOR DELETE
+[2024.04.03-20.38.48:331][442]LogEditorActor: Deleted Actor: Door_C
+[2024.04.03-20.38.48:338][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.03-20.38.48:340][442]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.04.03-20.38.52:197][738]Cmd: DELETE
+[2024.04.03-20.38.52:197][738]Cmd: ACTOR DELETE
+[2024.04.03-20.38.52:201][738]LogEditorActor: Deleted Actor: Door_C
+[2024.04.03-20.38.52:210][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.03-20.38.52:211][738]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.04.03-20.38.56:123][ 31]Cmd: DELETE
+[2024.04.03-20.38.56:123][ 31]Cmd: ACTOR DELETE
+[2024.04.03-20.38.56:126][ 31]LogEditorActor: Deleted Actor: BP_Key_C
+[2024.04.03-20.38.56:135][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.04.03-20.38.56:136][ 31]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.04.03-20.47.42:108][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.03-20.47.42:114][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.03-20.47.42:121][922]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005587 seconds
+[2024.04.03-20.47.42:156][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lab1_Auto1
+[2024.04.03-20.47.42:156][922]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1_Auto187A567B34E5558059C8CF7B5F27EF173.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto1.umap'
+[2024.04.03-20.47.42:159][922]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.03-20.47.42:159][922]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lab1' took 0.055
+[2024.04.03-20.47.42:159][922]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2024.04.03-20.55.22:835][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-20.57.56:626][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.04.03-20.57.56:628][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.03-20.57.56:658][969]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lab1_Auto2
+[2024.04.03-20.57.56:659][969]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1_Auto2AD7EFF6B48DD9BE0ED970AB76FF65542.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto2.umap'
+[2024.04.03-20.57.56:660][969]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.03-20.57.56:660][969]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lab1' took 0.038
+[2024.04.03-20.57.56:660][969]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.04.03-20.57.56:771][978]Cmd: DELETE
+[2024.04.03-20.57.56:771][978]Cmd: ACTOR DELETE
+[2024.04.03-20.57.56:774][978]LogEditorActor: Deleted Actor: BP_Key_C
+[2024.04.03-20.57.56:783][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.04.03-20.57.56:784][978]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.04.03-20.58.05:522][399]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.04.03-21.02.36:017][ 39]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.03-21.02.36:029][ 39]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.03-21.02.36:041][ 40]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.03-21.02.37:598][166]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.04.03-21.02.37:598][166]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.03-21.03.24:615][495]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.03.24:616][495]LogInterchangeEngine: Display: Interchange start importing source [C:/Program Files/Epi...ngine/Binaries/Win64/IMG_BlackSquare_Flat.png]
+[2024.04.03-21.03.24:616][495]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.03-21.03.24:617][495]LogInterchangeEngine: Display: Interchange start importing source [C:/Program Files/Epi...ngine/Binaries/Win64/IMG_BlackSquareDark_Flat.png]
+[2024.04.03-21.03.24:617][495]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.03-21.03.24:617][495]LogInterchangeEngine: Display: Interchange start importing source [C:/Program Files/Epi...ngine/Binaries/Win64/IMG_BlueSquare_Flat.png]
+[2024.04.03-21.03.24:617][495]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.03-21.03.24:617][495]LogInterchangeEngine: Display: Interchange start importing source [C:/Program Files/Epi...ngine/Binaries/Win64/IMG_RedSquare_Flat.png]
+[2024.04.03-21.03.24:630][496]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.03-21.03.24:912][496]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.03-21.03.24:912][496]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.03-21.03.24:912][496]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.03-21.03.24:912][496]Interchange: Error: There was no data to import in the provided source data.
+[2024.04.03-21.03.24:913][496]Interchange: Error: There was no data to import in the provided source data.
+[2024.04.03-21.03.24:913][496]Interchange: Error: There was no data to import in the provided source data.
+[2024.04.03-21.03.24:913][496]Interchange: Error: There was no data to import in the provided source data.
+[2024.04.03-21.03.24:921][496]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.03-21.03.24:934][497]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.03-21.03.37:215][988]LogSlate: Window 'Message Log' being destroyed
+[2024.04.03-21.03.37:221][988]LogSlate: Window 'Message Log' being destroyed
+[2024.04.03-21.03.41:119][123]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.03.41:119][123]LogInterchangeEngine: Display: Interchange start importing source [C:/Program Files/Epi...ngine/Binaries/Win64/IMG_RedSquare_Flat.png]
+[2024.04.03-21.03.41:134][124]Interchange: Error: There was no data to import in the provided source data.
+[2024.04.03-21.03.41:142][124]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.03-21.03.41:144][124]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.03-21.03.41:476][125]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.03-21.04.09:808][578]LogInterchangeEngine: [Pending] Importing
+[2024.04.03-21.04.09:808][578]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/PC/Desktop/Health Bar Materials/IMG_BlackSquare_Flat.png]
+[2024.04.03-21.04.09:808][578]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.03-21.04.09:809][578]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/PC/Desktop/Health Bar Materials/IMG_BlackSquareDark_Flat.png]
+[2024.04.03-21.04.09:809][578]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.03-21.04.09:809][578]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/PC/Desktop/Health Bar Materials/IMG_BlueSquare_Flat.png]
+[2024.04.03-21.04.09:809][578]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.04.03-21.04.09:809][578]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/PC/Desktop/Health Bar Materials/IMG_RedSquare_Flat.png]
+[2024.04.03-21.04.09:823][579]LogTexture: Display: Building textures: /Game/UI/IMG_BlueSquare_Flat.IMG_BlueSquare_Flat (BGRA8, 107x102 x1x1x1) (Required Memory Estimate: 0.381691 MB), EncodeSpeed: Fast
+[2024.04.03-21.04.09:824][579]LogTexture: Display: Building textures: /Game/UI/IMG_RedSquare_Flat.IMG_RedSquare_Flat (BGRA8, 107x102 x1x1x1) (Required Memory Estimate: 0.381691 MB), EncodeSpeed: Fast
+[2024.04.03-21.04.09:824][579]LogTexture: Display: Building textures: /Game/UI/IMG_BlackSquareDark_Flat.IMG_BlackSquareDark_Flat (BGRA8, 107x102 x1x1x1) (Required Memory Estimate: 0.381691 MB), EncodeSpeed: Fast
+[2024.04.03-21.04.09:825][579]LogTexture: Display: Building textures: /Game/UI/IMG_BlackSquare_Flat.IMG_BlackSquare_Flat (BGRA8, 107x102 x1x1x1) (Required Memory Estimate: 0.381691 MB), EncodeSpeed: Fast
+[2024.04.03-21.04.09:825][579]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.03-21.04.09:825][579]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.03-21.04.09:825][579]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.03-21.04.09:841][579]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.04.09:851][579]LogInterchangeEngine: [Success] Import Done
+[2024.04.03-21.07.57:369][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.03-21.07.57:371][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.03-21.07.57:402][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lab1_Auto3
+[2024.04.03-21.07.57:402][631]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1_Auto3733133454E7BF38EF499638280B2B84F.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto3.umap'
+[2024.04.03-21.07.57:404][631]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto3.umap is in the /Temp path, will not scan.
+[2024.04.03-21.07.57:404][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lab1' took 0.042
+[2024.04.03-21.07.57:404][631]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2024.04.03-21.07.57:404][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/IMG_BlackSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.07.57:407][631]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/IMG_BlackSquare_Flat.IMG_BlackSquare_Flat]
+[2024.04.03-21.07.57:407][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlackSquare_Flat]
+[2024.04.03-21.07.57:410][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlackSquare_Flat_Auto3
+[2024.04.03-21.07.57:410][631]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlackSquare_Flat_Auto3EDB3183740342CEC2860F089A8CB4AC5.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlackSquare_Flat_Auto3.uasset'
+[2024.04.03-21.07.57:410][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/IMG_BlackSquareDark_Flat] ([1] browsable assets)...
+[2024.04.03-21.07.57:412][631]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/IMG_BlackSquareDark_Flat.IMG_BlackSquareDark_Flat]
+[2024.04.03-21.07.57:412][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlackSquareDark_Flat]
+[2024.04.03-21.07.57:413][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlackSquareDark_Flat_Auto3
+[2024.04.03-21.07.57:413][631]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlackSquareDark_Flat_Auto3FB77AC76435743EADDEDE7B62E358FCD.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlackSquareDark_Flat_Auto3.uasset'
+[2024.04.03-21.07.57:413][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/IMG_BlueSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.07.57:418][631]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/IMG_BlueSquare_Flat.IMG_BlueSquare_Flat]
+[2024.04.03-21.07.57:418][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlueSquare_Flat]
+[2024.04.03-21.07.57:419][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlueSquare_Flat_Auto3
+[2024.04.03-21.07.57:419][631]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlueSquare_Flat_Auto38DC9E3854EA39E205C1C279519D7E1C0.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlueSquare_Flat_Auto3.uasset'
+[2024.04.03-21.07.57:419][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/IMG_RedSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.07.57:423][631]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/IMG_RedSquare_Flat.IMG_RedSquare_Flat]
+[2024.04.03-21.07.57:423][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_RedSquare_Flat]
+[2024.04.03-21.07.57:423][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_RedSquare_Flat_Auto3
+[2024.04.03-21.07.57:424][631]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_RedSquare_Flat_Auto3625C247F4F5119F55A0C01BA6E30680C.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_RedSquare_Flat_Auto3.uasset'
+[2024.04.03-21.07.57:424][631]LogFileHelpers: Auto-saving content packages took 0.020
+[2024.04.03-21.11.00:668][816]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.04.03-21.11.00:674][816]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.04.03-21.11.00:679][816]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.04.03-21.11.00:695][817]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.04.03-21.11.04:907][202]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Health_Bar
+[2024.04.03-21.11.04:919][202]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.04.03-21.11.09:254][597]LogContentBrowser: Attempting asset rename: Health_Bar -> Healt_Bar
+[2024.04.03-21.11.09:304][597]LogMetaData: Removing '/Game/UI/Healt_Bar.SKEL_Healt_Bar_C' ref from Metadata '/Game/UI/Health_Bar.PackageMetaData'
+[2024.04.03-21.11.09:305][597]LogMetaData: Removing '/Game/UI/Healt_Bar.Healt_Bar_C' ref from Metadata '/Game/UI/Health_Bar.PackageMetaData'
+[2024.04.03-21.11.09:305][597]LogMetaData: Removing '/Game/UI/Healt_Bar.Healt_Bar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Health_Bar.PackageMetaData'
+[2024.04.03-21.11.09:305][597]LogMetaData: Removing '/Game/UI/Healt_Bar.Healt_Bar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Health_Bar.PackageMetaData'
+[2024.04.03-21.11.09:305][597]LogMetaData: Removing '/Game/UI/Healt_Bar.Healt_Bar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Health_Bar.PackageMetaData'
+[2024.04.03-21.11.09:310][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.11.09:337][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Healt_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Healt_Bar.uasset" SILENT=true
+[2024.04.03-21.11.09:343][597]LogSavePackage: Moving output files for package: /Game/UI/Healt_Bar
+[2024.04.03-21.11.09:343][597]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Healt_Bar415DA9484A0EE389A04BE1A7129AC8A8.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Healt_Bar.uasset'
+[2024.04.03-21.11.09:352][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms
+[2024.04.03-21.11.09:359][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.03-21.11.09:362][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.03-21.11.09:364][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.04.03-21.11.09:365][597]AssetCheck: New page: Asset Save: Healt_Bar
+[2024.04.03-21.11.09:365][597]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Healt_Bar.Healt_Bar
+[2024.04.03-21.11.29:692][ 43]LogContentBrowser: Attempting asset rename: Healt_Bar -> Health_Bar
+[2024.04.03-21.11.29:716][ 43]LogMetaData: Removing '/Game/UI/Health_Bar.Health_Bar_C' ref from Metadata '/Game/UI/Healt_Bar.PackageMetaData'
+[2024.04.03-21.11.29:716][ 43]LogMetaData: Removing '/Game/UI/Health_Bar.SKEL_Health_Bar_C' ref from Metadata '/Game/UI/Healt_Bar.PackageMetaData'
+[2024.04.03-21.11.29:716][ 43]LogMetaData: Removing '/Game/UI/Health_Bar.Health_Bar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Healt_Bar.PackageMetaData'
+[2024.04.03-21.11.29:716][ 43]LogMetaData: Removing '/Game/UI/Health_Bar.Health_Bar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Healt_Bar.PackageMetaData'
+[2024.04.03-21.11.29:716][ 43]LogMetaData: Removing '/Game/UI/Health_Bar.Health_Bar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Healt_Bar.PackageMetaData'
+[2024.04.03-21.11.29:718][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.11.29:737][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset" SILENT=true
+[2024.04.03-21.11.29:739][ 43]LogSavePackage: Moving output files for package: /Game/UI/Health_Bar
+[2024.04.03-21.11.29:739][ 43]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_Bar89359CCA41480576C2ADE682DA3A1FAE.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset'
+[2024.04.03-21.11.29:746][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 71 ms)
+[2024.04.03-21.11.29:754][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.04.03-21.11.29:757][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.03-21.11.29:759][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.04.03-21.11.29:762][ 43]AssetCheck: New page: Asset Save: Health_Bar
+[2024.04.03-21.11.29:762][ 43]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.11.38:991][368]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.11.38:992][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.11.38:992][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.11.39:075][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.11.39:075][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.11.39:086][368]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.04.03-21.11.39:089][368]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.03-21.11.40:520][368]LogSlate: Took 0.003351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.03-21.11.40:534][368]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.04.03-21.11.40:538][368]LogSlate: Took 0.003855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.03-21.11.43:575][582]LogSlate: Window 'Health_Bar' being destroyed
+[2024.04.03-21.11.46:275][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.11.46:299][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-21.11.46:329][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.03-21.11.46:360][861]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.03-21.11.46:360][861]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1339197C34D95E68B3B40259CDCD0D613.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.03-21.11.46:364][861]LogFileHelpers: Saving map 'Lab1' took 0.066
+[2024.04.03-21.11.46:369][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 165 ms)
+[2024.04.03-21.11.46:371][861]AssetCheck: New page: Asset Save: Lab1
+[2024.04.03-21.11.46:371][861]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.03-21.18.50:152][728]LogSlate: Window 'Health_Bar' being destroyed
+[2024.04.03-21.18.57:152][938]LogSlate: Took 0.004380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.03-21.24.24:060][989]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.03-21.27.24:995][551]LogEditorTransaction: Undo Edit Left
+[2024.04.03-21.27.25:613][583]LogEditorTransaction: Undo Edit Right
+[2024.04.03-21.29.19:951][626]LogDerivedDataCache: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.090 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 563 files in 950 folders with total size 3 MiB.
+[2024.04.03-21.29.29:641][729]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:641][729]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:643][729]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:700][730]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:701][730]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:706][730]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:714][731]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:765][732]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:766][732]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:772][732]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:779][733]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:779][733]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:780][733]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:831][734]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:844][735]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:847][735]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:897][736]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:898][736]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:898][736]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:903][736]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:913][737]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:914][737]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:965][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:966][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:966][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:973][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:980][739]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.29:981][739]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:033][740]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:046][741]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:101][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:165][744]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:173][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:224][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:226][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:226][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:237][747]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:238][747]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:239][747]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:291][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:294][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:295][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:296][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:297][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:298][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:299][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:300][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:301][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:302][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:303][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:304][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:305][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:306][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:307][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:308][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:313][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:321][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:322][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:323][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:324][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:325][749]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:387][750]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:388][750]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:394][750]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:402][751]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:404][751]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:462][752]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:464][752]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:478][753]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:480][753]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:537][754]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:543][754]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:553][755]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:613][756]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:620][756]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:627][757]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:629][757]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:688][758]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:701][759]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:704][759]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:759][760]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:761][760]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:762][760]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:763][760]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:769][760]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:779][761]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:780][761]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:781][761]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:782][761]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:842][762]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:849][762]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:858][763]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:915][764]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:929][765]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.30:991][766]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.31:057][768]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.31:063][768]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.31:073][769]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.31:143][771]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.31:205][772]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.29.33:378][ 21]LogEditorTransaction: Undo Changed Anchors
+[2024.04.03-21.29.48:247][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.29.48:274][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset" SILENT=true
+[2024.04.03-21.29.48:278][542]LogSavePackage: Moving output files for package: /Game/UI/Health_Bar
+[2024.04.03-21.29.48:278][542]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_Bar9B3267FA4E255EC6831915A68E344A0B.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset'
+[2024.04.03-21.29.48:283][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 201 ms)
+[2024.04.03-21.29.48:285][542]AssetCheck: New page: Asset Save: Health_Bar
+[2024.04.03-21.29.48:285][542]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.30.16:622][ 25]BlueprintLog: New page: Compile Health_Bar
+[2024.04.03-21.30.16:646][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.03-21.30.22:752][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.30.22:779][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset" SILENT=true
+[2024.04.03-21.30.22:783][740]LogSavePackage: Moving output files for package: /Game/UI/Health_Bar
+[2024.04.03-21.30.22:783][740]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_BarD68EA3F748545E8422E71E9DC39BDDAE.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset'
+[2024.04.03-21.30.22:789][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 237 ms)
+[2024.04.03-21.30.22:789][740]AssetCheck: New page: Asset Save: Health_Bar
+[2024.04.03-21.30.22:789][740]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.31.17:012][ 58]BlueprintLog: New page: Compile Health_Bar
+[2024.04.03-21.31.17:035][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.04.03-21.31.17:675][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.31.17:709][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset" SILENT=true
+[2024.04.03-21.31.17:713][117]LogSavePackage: Moving output files for package: /Game/UI/Health_Bar
+[2024.04.03-21.31.17:714][117]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_Bar9F7767124154963F4A34A0AB498CFDC4.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset'
+[2024.04.03-21.31.17:719][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 281 ms)
+[2024.04.03-21.31.17:720][117]AssetCheck: New page: Asset Save: Health_Bar
+[2024.04.03-21.31.17:721][117]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.32.50:033][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.03-21.32.50:034][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lab1' took 0.015
+[2024.04.03-21.32.50:035][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/IMG_BlackSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.32.50:035][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlackSquare_Flat]
+[2024.04.03-21.32.50:036][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlackSquare_Flat_Auto4
+[2024.04.03-21.32.50:036][311]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlackSquare_Flat_Auto46430FF9D49150FC968729BA4658B1F30.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlackSquare_Flat_Auto4.uasset'
+[2024.04.03-21.32.50:037][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/IMG_BlackSquareDark_Flat] ([1] browsable assets)...
+[2024.04.03-21.32.50:037][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlackSquareDark_Flat]
+[2024.04.03-21.32.50:038][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlackSquareDark_Flat_Auto4
+[2024.04.03-21.32.50:038][311]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlackSquareDark_Flat_Auto46165A3B540A366D0754FCC8A3EDBBB94.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlackSquareDark_Flat_Auto4.uasset'
+[2024.04.03-21.32.50:039][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/IMG_BlueSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.32.50:039][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlueSquare_Flat]
+[2024.04.03-21.32.50:040][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlueSquare_Flat_Auto4
+[2024.04.03-21.32.50:040][311]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlueSquare_Flat_Auto4EE71D5A04397871A7CD0B38C1AB051F6.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlueSquare_Flat_Auto4.uasset'
+[2024.04.03-21.32.50:041][311]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/IMG_RedSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.32.50:041][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_RedSquare_Flat]
+[2024.04.03-21.32.50:042][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_RedSquare_Flat_Auto4
+[2024.04.03-21.32.50:042][311]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_RedSquare_Flat_Auto4A41AA9BB4DE338A3082CB0AD83BC82C4.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_RedSquare_Flat_Auto4.uasset'
+[2024.04.03-21.32.50:043][311]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Health_Bar] ([2] browsable assets)...
+[2024.04.03-21.32.50:046][311]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Health_Bar.Health_Bar]
+[2024.04.03-21.32.50:046][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Health_Bar]
+[2024.04.03-21.32.50:046][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/Health_Bar_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.04.03-21.32.50:049][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Health_Bar_Auto4
+[2024.04.03-21.32.50:049][311]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_Bar_Auto4E9B331BE4EE1FC2330A2DF9DFAF8AA4E.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/Health_Bar_Auto4.uasset'
+[2024.04.03-21.32.50:050][311]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.04.03-21.34.11:872][722]BlueprintLog: New page: Compile Health_Bar
+[2024.04.03-21.34.11:893][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.03-21.34.14:186][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.34.14:217][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset" SILENT=true
+[2024.04.03-21.34.14:223][991]LogSavePackage: Moving output files for package: /Game/UI/Health_Bar
+[2024.04.03-21.34.14:224][991]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_Bar10D6C18A47F08A64BE6FD0BB83C747A1.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset'
+[2024.04.03-21.34.14:229][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 325 ms)
+[2024.04.03-21.34.14:230][991]AssetCheck: New page: Asset Save: Health_Bar
+[2024.04.03-21.34.14:230][991]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.34.33:955][462]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.34.37:751][720]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.03-21.34.42:151][779]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.03-21.34.42:157][779]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.03-21.34.42:163][779]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.03-21.34.42:168][779]LogAutomationController: Ignoring very large delta of 3.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.03-21.34.42:178][780]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.03-21.34.59:262][260]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ThirdPersonController
+[2024.04.03-21.34.59:270][260]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.03-21.35.00:815][389]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonController.BP_ThirdPersonController
+[2024.04.03-21.35.00:816][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.35.00:816][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.35.00:971][389]LogViewport: Scene viewport resized to 1396x979, mode Windowed.
+[2024.04.03-21.36.47:166][941]BlueprintLog: New page: Compile BP_ThirdPersonController
+[2024.04.03-21.36.47:193][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.03-21.36.48:561][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.03-21.36.48:569][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.03-21.36.48:570][ 64]PIE: New page: PIE session: Lab1 (4 Nis 2024 03:36:48)
+[2024.04.03-21.36.48:571][ 64]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2024.04.03-21.36.48:573][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.04.03-21.36.48:608][ 65]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.03-21.36.48:620][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011814s)
+[2024.04.03-21.36.48:620][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.012069s)
+[2024.04.03-21.36.48:636][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.03-21.36.48:639][ 65]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.36.48:639][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.36.48:639][ 65]LogAIModule: Creating AISystem for world Lab1
+[2024.04.03-21.36.48:640][ 65]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2024.04.03-21.36.48:640][ 65]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.03-21.36.48:640][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.03-21.36.48:640][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.03-21.36.48:640][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.03-21.36.48:640][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.03-21.36.48:640][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.03-21.36.48:640][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.03-21.36.48:640][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.03-21.36.48:640][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.03-21.36.48:641][ 65]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.03-21.36.48:641][ 65]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.03-21.36.48:641][ 65]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.03-21.36.48:643][ 65]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.03-21.36.48:662][ 65]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.03-21.36.48:662][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.03-21.36.48:662][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.03-21.36.48:662][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.03-21.36.48:663][ 65]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.03-21.36.48:663][ 65]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2024.04.03-21.36.48:665][ 65]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.03-21.36.48:665][ 65]LogInit: FAudioDevice initialized with ID 2.
+[2024.04.03-21.36.48:665][ 65]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lab1'.
+[2024.04.03-21.36.48:665][ 65]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.03-21.36.48:665][ 65]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.03-21.36.48:676][ 65]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.03-21.36.48:682][ 65]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.04-00.36.48
+[2024.04.03-21.36.48:683][ 65]LogWorld: Bringing up level for play took: 0.006855
+[2024.04.03-21.36.48:709][ 65]PIE: Server logged in
+[2024.04.03-21.36.48:709][ 65]PIE: Play in editor total start time 0,143 seconds.
+[2024.04.03-21.36.53:419][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.36.53:419][320]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.03-21.36.53:419][320]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.36.53:421][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.36.53:426][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.03-21.36.53:430][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.36.53:442][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.03-21.36.53:442][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.04.03-21.36.53:444][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.03-21.36.53:446][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.03-21.36.53:451][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.36.53:456][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.03-21.36.53:534][321]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.03-21.37.03:861][ 93]LogSlate: Window 'World Settings' being destroyed
+[2024.04.03-21.37.36:865][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.37.36:894][587]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonController
+[2024.04.03-21.37.36:894][587]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonController998CAF074CC81AE43FFAA09DF4ADCBED.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonController.uasset'
+[2024.04.03-21.37.36:902][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 361 ms)
+[2024.04.03-21.37.36:902][587]AssetCheck: New page: Asset Save: BP_ThirdPersonController
+[2024.04.03-21.37.36:902][587]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonController.BP_ThirdPersonController
+[2024.04.03-21.39.03:447][145]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.03-21.39.03:452][145]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.03-21.39.03:454][145]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2024.04.03-21.39.03:472][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.04.03-21.39.03:474][145]LogPlayLevel: PlayLevel: Blueprint regeneration took 21 ms (1 blueprints)
+[2024.04.03-21.39.03:474][145]PIE: New page: PIE session: Lab1 (4 Nis 2024 03:39:03)
+[2024.04.03-21.39.03:507][145]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2024.04.03-21.39.03:509][145]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.03-21.39.03:519][146]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.03-21.39.03:528][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008307s)
+[2024.04.03-21.39.03:528][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.008348s)
+[2024.04.03-21.39.03:539][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.03-21.39.03:541][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.39.03:541][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.39.03:541][146]LogAIModule: Creating AISystem for world Lab1
+[2024.04.03-21.39.03:542][146]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2024.04.03-21.39.03:542][146]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.03-21.39.03:542][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.03-21.39.03:542][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.03-21.39.03:542][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.03-21.39.03:542][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.03-21.39.03:542][146]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.03-21.39.03:542][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.03-21.39.03:542][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.03-21.39.03:542][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.03-21.39.03:542][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.03-21.39.03:542][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.03-21.39.03:542][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.03-21.39.03:544][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.03-21.39.03:562][146]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.03-21.39.03:562][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.03-21.39.03:562][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.03-21.39.03:562][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.03-21.39.03:563][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.03-21.39.03:563][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2024.04.03-21.39.03:564][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.03-21.39.03:564][146]LogInit: FAudioDevice initialized with ID 3.
+[2024.04.03-21.39.03:564][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.03-21.39.03:564][146]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lab1'.
+[2024.04.03-21.39.03:564][146]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.03-21.39.03:566][146]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.03-21.39.03:572][146]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.04-00.39.03
+[2024.04.03-21.39.03:572][146]LogWorld: Bringing up level for play took: 0.006023
+[2024.04.03-21.39.03:577][146]PIE: Server logged in
+[2024.04.03-21.39.03:578][146]PIE: Play in editor total start time 0,126 seconds.
+[2024.04.03-21.39.08:748][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.39.08:748][467]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.03-21.39.08:748][467]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.39.08:749][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.39.08:759][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.03-21.39.08:762][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.39.08:773][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.39.08:774][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.04.03-21.39.08:774][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.03-21.39.08:775][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.03-21.39.08:791][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.03-21.39.08:851][468]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.03-21.39.21:484][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:486][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:487][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:488][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:489][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:490][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:491][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:492][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:493][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:494][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:495][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:496][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:497][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:497][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:498][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:499][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:500][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:501][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:502][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:504][633]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:568][634]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:569][634]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:571][634]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:576][634]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:584][635]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:585][635]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:642][636]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:649][636]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:656][637]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:657][637]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:660][637]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:716][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:717][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:718][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:720][638]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:733][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:734][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:735][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:736][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:737][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:738][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:739][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:740][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:741][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:742][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:743][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:744][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:745][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:746][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:747][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:748][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:749][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:750][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:751][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:752][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:753][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:754][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:755][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:756][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:756][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:757][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:759][639]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:815][640]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:822][640]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:886][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:888][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:890][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:891][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:897][642]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:905][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:906][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:907][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:908][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:909][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:910][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:912][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:913][643]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:971][644]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:985][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.21:987][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:043][646]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:050][646]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:116][648]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:125][648]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:133][649]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:134][649]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:136][649]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:192][650]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:206][651]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:268][652]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:335][654]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:342][654]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:351][655]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:422][657]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:482][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:553][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:560][661]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:631][663]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:693][664]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.22:762][666]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.23:771][782]LogEditorTransaction: Undo Move Nodes
+[2024.04.03-21.39.27:818][207]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:819][207]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:820][207]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:894][208]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:895][208]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:913][209]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:913][209]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:914][209]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:916][209]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:983][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:990][210]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.27:999][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:000][211]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:069][212]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:076][212]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:087][213]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:172][215]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:247][216]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:257][217]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:326][218]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:328][218]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:336][218]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:345][219]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:346][219]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:414][220]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:415][220]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:432][221]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:434][221]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:506][222]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:516][222]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:605][224]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:614][225]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:705][227]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:782][228]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:873][230]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:884][231]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.28:971][233]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:044][234]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:046][234]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:047][234]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:055][234]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:065][235]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:066][235]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:134][236]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:143][236]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:152][237]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:238][239]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.29:316][240]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.30:226][333]LogEditorTransaction: Undo Move Node
+[2024.04.03-21.39.36:130][975]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:131][975]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:132][975]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:189][976]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:191][976]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:191][976]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:204][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:205][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:206][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:256][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:257][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:258][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:264][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:271][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:272][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:323][980]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:329][980]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:337][981]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:338][981]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:339][981]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:340][981]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:391][982]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:404][983]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:406][983]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:463][984]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:465][984]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:466][984]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:473][984]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:482][985]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:483][985]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:542][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:550][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:558][987]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:614][988]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:629][989]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:630][989]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:632][989]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:689][990]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:696][990]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:705][991]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:706][991]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:764][992]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:771][992]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:779][993]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:780][993]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:782][993]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:840][994]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:856][995]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:918][996]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:987][998]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.36:999][999]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.37:070][  1]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.37:133][  2]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.37:202][  4]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.37:213][  5]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.37:286][  7]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2024.04.03-21.39.38:015][ 83]LogEditorTransaction: Undo Move Node
+[2024.04.03-21.39.59:624][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.39.59:652][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset" SILENT=true
+[2024.04.03-21.39.59:657][619]LogSavePackage: Moving output files for package: /Game/UI/Health_Bar
+[2024.04.03-21.39.59:658][619]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_BarC29301F6453B9C6E14DF679546F25EB2.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset'
+[2024.04.03-21.39.59:663][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 401 ms)
+[2024.04.03-21.39.59:665][619]AssetCheck: New page: Asset Save: Health_Bar
+[2024.04.03-21.39.59:665][619]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.40.00:016][661]BlueprintLog: New page: Compile Health_Bar
+[2024.04.03-21.40.00:040][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.03-21.40.01:967][805]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.03-21.40.01:972][805]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.03-21.40.01:973][805]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonController before play...
+[2024.04.03-21.40.01:997][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.03-21.40.01:999][805]LogPlayLevel: PlayLevel: Blueprint regeneration took 26 ms (1 blueprints)
+[2024.04.03-21.40.02:000][805]PIE: New page: PIE session: Lab1 (4 Nis 2024 03:40:01)
+[2024.04.03-21.40.02:027][805]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2024.04.03-21.40.02:030][805]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.04.03-21.40.02:039][806]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.03-21.40.02:048][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008617s)
+[2024.04.03-21.40.02:048][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.008655s)
+[2024.04.03-21.40.02:059][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.03-21.40.02:061][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.40.02:062][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.40.02:062][806]LogAIModule: Creating AISystem for world Lab1
+[2024.04.03-21.40.02:063][806]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2024.04.03-21.40.02:063][806]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.03-21.40.02:063][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.03-21.40.02:063][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.03-21.40.02:063][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.03-21.40.02:063][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.03-21.40.02:063][806]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.03-21.40.02:063][806]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.03-21.40.02:063][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.03-21.40.02:063][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.03-21.40.02:063][806]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.03-21.40.02:063][806]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.03-21.40.02:063][806]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.03-21.40.02:065][806]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.03-21.40.02:081][806]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.03-21.40.02:082][806]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.03-21.40.02:082][806]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.03-21.40.02:082][806]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.03-21.40.02:083][806]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.03-21.40.02:083][806]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2024.04.03-21.40.02:084][806]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.03-21.40.02:084][806]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.03-21.40.02:084][806]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lab1'.
+[2024.04.03-21.40.02:084][806]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.03-21.40.02:084][806]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.03-21.40.02:086][806]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.03-21.40.02:092][806]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.04-00.40.02
+[2024.04.03-21.40.02:092][806]LogWorld: Bringing up level for play took: 0.006043
+[2024.04.03-21.40.02:096][806]PIE: Server logged in
+[2024.04.03-21.40.02:097][806]PIE: Play in editor total start time 0,124 seconds.
+[2024.04.03-21.40.04:087][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.40.04:087][932]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.03-21.40.04:088][932]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.40.04:088][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.40.04:097][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.03-21.40.04:100][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.40.04:111][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.40.04:112][932]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.03-21.40.04:112][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.03-21.40.04:114][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.03-21.40.04:133][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.03-21.40.04:182][933]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.04.03-21.40.26:297][512]BlueprintLog: New page: Compile Health_Bar
+[2024.04.03-21.40.26:321][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.03-21.40.26:784][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.40.26:820][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset" SILENT=true
+[2024.04.03-21.40.26:825][551]LogSavePackage: Moving output files for package: /Game/UI/Health_Bar
+[2024.04.03-21.40.26:825][551]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_BarBEC0860046EEBDABA0F325B4076D9967.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset'
+[2024.04.03-21.40.26:831][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 449 ms)
+[2024.04.03-21.40.26:832][551]AssetCheck: New page: Asset Save: Health_Bar
+[2024.04.03-21.40.26:832][551]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.40.28:486][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.03-21.40.28:491][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.03-21.40.28:491][685]PIE: New page: PIE session: Lab1 (4 Nis 2024 03:40:28)
+[2024.04.03-21.40.28:517][685]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2024.04.03-21.40.28:518][685]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.03-21.40.28:529][686]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.03-21.40.28:537][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007999s)
+[2024.04.03-21.40.28:537][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.008030s)
+[2024.04.03-21.40.28:549][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.03-21.40.28:552][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.40.28:552][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.40.28:553][686]LogAIModule: Creating AISystem for world Lab1
+[2024.04.03-21.40.28:553][686]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2024.04.03-21.40.28:553][686]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.03-21.40.28:553][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.03-21.40.28:553][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.03-21.40.28:553][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.03-21.40.28:553][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.03-21.40.28:553][686]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.03-21.40.28:553][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.03-21.40.28:553][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.03-21.40.28:553][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.03-21.40.28:553][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.03-21.40.28:553][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.03-21.40.28:553][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.03-21.40.28:555][686]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.03-21.40.28:572][686]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.03-21.40.28:572][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.03-21.40.28:572][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.03-21.40.28:572][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.03-21.40.28:574][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.03-21.40.28:574][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2024.04.03-21.40.28:575][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.03-21.40.28:575][686]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.03-21.40.28:575][686]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lab1'.
+[2024.04.03-21.40.28:575][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.03-21.40.28:575][686]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.03-21.40.28:577][686]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.03-21.40.28:583][686]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.04-00.40.28
+[2024.04.03-21.40.28:583][686]LogWorld: Bringing up level for play took: 0.006316
+[2024.04.03-21.40.28:587][686]PIE: Server logged in
+[2024.04.03-21.40.28:587][686]PIE: Play in editor total start time 0,096 seconds.
+[2024.04.03-21.40.38:558][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.40.38:558][289]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.03-21.40.38:558][289]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.40.38:559][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.40.38:568][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.03-21.40.38:573][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.40.38:586][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.03-21.40.38:587][289]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.03-21.40.38:587][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.03-21.40.38:588][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.03-21.40.38:595][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.40.38:599][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.03-21.40.38:653][290]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.03-21.40.44:176][753]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.03-21.40.44:182][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.03-21.40.44:182][753]PIE: New page: PIE session: Lab1 (4 Nis 2024 03:40:44)
+[2024.04.03-21.40.44:182][753]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2024.04.03-21.40.44:183][753]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.04.03-21.40.44:190][754]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.03-21.40.44:199][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009186s)
+[2024.04.03-21.40.44:199][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.009223s)
+[2024.04.03-21.40.44:211][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.04.03-21.40.44:213][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.40.44:214][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.40.44:214][754]LogAIModule: Creating AISystem for world Lab1
+[2024.04.03-21.40.44:214][754]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2024.04.03-21.40.44:214][754]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.03-21.40.44:214][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.03-21.40.44:214][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.03-21.40.44:214][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.03-21.40.44:214][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.03-21.40.44:214][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.03-21.40.44:214][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.03-21.40.44:214][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.03-21.40.44:214][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.03-21.40.44:215][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.03-21.40.44:215][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.03-21.40.44:215][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.03-21.40.44:216][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.03-21.40.44:233][754]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.03-21.40.44:233][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.03-21.40.44:233][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.03-21.40.44:233][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.03-21.40.44:234][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.03-21.40.44:234][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2024.04.03-21.40.44:235][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.03-21.40.44:235][754]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.03-21.40.44:235][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.03-21.40.44:235][754]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lab1'.
+[2024.04.03-21.40.44:235][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.03-21.40.44:237][754]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.03-21.40.44:244][754]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.04-00.40.44
+[2024.04.03-21.40.44:245][754]LogWorld: Bringing up level for play took: 0.006928
+[2024.04.03-21.40.44:248][754]PIE: Server logged in
+[2024.04.03-21.40.44:249][754]PIE: Play in editor total start time 0,067 seconds.
+[2024.04.03-21.40.50:058][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.40.50:058][105]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.03-21.40.50:058][105]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.40.50:059][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.40.50:062][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.03-21.40.50:066][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.40.50:079][105]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.03-21.40.50:079][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.03-21.40.50:079][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.03-21.40.50:081][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.03-21.40.50:085][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.40.50:089][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.03-21.40.50:122][106]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.03-21.41.25:395][872]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.03-21.41.25:395][872]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.41.25:395][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.41.25:698][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.42.28:499][826]LogSlate: Took 0.004091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.03-21.42.32:204][255]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.42.32:253][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.03-21.42.34:378][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.42.34:414][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.42.34:513][496]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.03-21.42.34:514][496]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonCharacter039521C04ED7D530D18834A1D21765C4.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.03-21.42.34:519][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 590 ms)
+[2024.04.03-21.42.34:523][496]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.03-21.42.34:523][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.03-21.42.51:244][464]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.42.51:295][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.03-21.43.11:115][208]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.43.11:165][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.03-21.44.56:694][575]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.44.56:750][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.03-21.45.10:817][221]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.45.10:869][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.03-21.45.11:634][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.45.11:748][296]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.03-21.45.11:748][296]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonCharacterF54077444946E398F6490FB6C49FD4AF.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.03-21.45.11:756][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 713 ms)
+[2024.04.03-21.45.11:757][296]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.03-21.45.11:757][296]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.03-21.46.05:053][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.03-21.46.05:056][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.03-21.46.05:087][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lab1_Auto5
+[2024.04.03-21.46.05:088][545]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1_Auto5A977991C4BE5EFECB09E3DBB2E206421.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto5.umap'
+[2024.04.03-21.46.05:089][545]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/Lab1_Auto5.umap is in the /Temp path, will not scan.
+[2024.04.03-21.46.05:089][545]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Lab1' took 0.050
+[2024.04.03-21.46.05:089][545]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2024.04.03-21.46.05:090][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_GameMode] ([2] browsable assets)...
+[2024.04.03-21.46.05:090][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_GameMode]
+[2024.04.03-21.46.05:090][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameMode" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/BP_GameMode_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.04.03-21.46.05:092][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_GameMode_Auto5
+[2024.04.03-21.46.05:092][545]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_GameMode_Auto577D1A7CA4B847B47EE560AA785CC6DEB.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/BP_GameMode_Auto5.uasset'
+[2024.04.03-21.46.05:093][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/IMG_BlackSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.46.05:093][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlackSquare_Flat]
+[2024.04.03-21.46.05:094][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlackSquare_Flat_Auto5
+[2024.04.03-21.46.05:094][545]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlackSquare_Flat_Auto53936F5CE4834B23A13510C9F6963F230.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlackSquare_Flat_Auto5.uasset'
+[2024.04.03-21.46.05:095][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/IMG_BlackSquareDark_Flat] ([1] browsable assets)...
+[2024.04.03-21.46.05:095][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlackSquareDark_Flat]
+[2024.04.03-21.46.05:096][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlackSquareDark_Flat_Auto5
+[2024.04.03-21.46.05:096][545]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlackSquareDark_Flat_Auto5A70983BA44E8DF87812AD49FAEE62E47.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlackSquareDark_Flat_Auto5.uasset'
+[2024.04.03-21.46.05:096][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/IMG_BlueSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.46.05:096][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_BlueSquare_Flat]
+[2024.04.03-21.46.05:097][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_BlueSquare_Flat_Auto5
+[2024.04.03-21.46.05:097][545]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_BlueSquare_Flat_Auto539F1EB474296B856D3BE68B30C7E90D8.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_BlueSquare_Flat_Auto5.uasset'
+[2024.04.03-21.46.05:099][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/IMG_RedSquare_Flat] ([1] browsable assets)...
+[2024.04.03-21.46.05:099][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/IMG_RedSquare_Flat]
+[2024.04.03-21.46.05:100][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/IMG_RedSquare_Flat_Auto5
+[2024.04.03-21.46.05:100][545]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/IMG_RedSquare_Flat_Auto553A57B6B45A6EF0B3EB1E9B9E8185AE3.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/UI/IMG_RedSquare_Flat_Auto5.uasset'
+[2024.04.03-21.46.05:101][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonController] ([2] browsable assets)...
+[2024.04.03-21.46.05:101][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonController]
+[2024.04.03-21.46.05:105][545]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonController_Auto5
+[2024.04.03-21.46.05:105][545]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonController_Auto5B173128145A644A3AE6C5CA539C36A5B.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonController_Auto5.uasset'
+[2024.04.03-21.46.05:106][545]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.04.03-21.47.00:536][470]BlueprintLog: New page: Compile Health_Bar
+[2024.04.03-21.47.00:554][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.03-21.48.09:320][747]BlueprintLog: New page: Compile Health_Bar
+[2024.04.03-21.48.09:340][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.04.03-21.48.09:773][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.48.09:806][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_Bar" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset" SILENT=true
+[2024.04.03-21.48.09:813][794]LogSavePackage: Moving output files for package: /Game/UI/Health_Bar
+[2024.04.03-21.48.09:814][794]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Health_BarD87A94D8454441C7C35EE78CA3B79A44.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/UI/Health_Bar.uasset'
+[2024.04.03-21.48.09:820][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 760 ms)
+[2024.04.03-21.48.09:822][794]AssetCheck: New page: Asset Save: Health_Bar
+[2024.04.03-21.48.09:822][794]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_Bar.Health_Bar
+[2024.04.03-21.48.11:744][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.48.11:774][ 21]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonController
+[2024.04.03-21.48.11:774][ 21]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonController9C74F93A41C71C7C206CFFBB7CDD8080.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonController.uasset'
+[2024.04.03-21.48.11:780][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 796 ms)
+[2024.04.03-21.48.11:781][ 21]AssetCheck: New page: Asset Save: BP_ThirdPersonController
+[2024.04.03-21.48.11:781][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonController.BP_ThirdPersonController
+[2024.04.03-21.48.12:122][ 62]BlueprintLog: New page: Compile BP_ThirdPersonController
+[2024.04.03-21.48.12:145][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.03-21.48.12:747][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.48.12:773][130]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonController
+[2024.04.03-21.48.12:774][130]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonController8DDFEBC440AA79DB33B5EF83FA58FFB4.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonController.uasset'
+[2024.04.03-21.48.12:780][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 829 ms)
+[2024.04.03-21.48.12:781][130]AssetCheck: New page: Asset Save: BP_ThirdPersonController
+[2024.04.03-21.48.12:781][130]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonController.BP_ThirdPersonController
+[2024.04.03-21.48.35:345][ 30]BlueprintLog: New page: Compile BP_ThirdPersonController
+[2024.04.03-21.48.35:369][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.03-21.48.39:314][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.48.39:348][487]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonController
+[2024.04.03-21.48.39:349][487]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonControllerCE401FD24726831F18C33C8A94B68719.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonController.uasset'
+[2024.04.03-21.48.39:357][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 872 ms)
+[2024.04.03-21.48.39:359][487]AssetCheck: New page: Asset Save: BP_ThirdPersonController
+[2024.04.03-21.48.39:359][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonController.BP_ThirdPersonController
+[2024.04.03-21.50.10:481][138]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.50.10:525][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.03-21.51.02:104][922]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.51.02:151][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.03-21.51.03:055][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.51.03:157][ 12]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.03-21.51.03:158][ 12]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonCharacter2B214D13447C1F913F85E082F70CD468.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.03-21.51.03:164][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 981 ms)
+[2024.04.03-21.51.03:165][ 12]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.03-21.51.03:165][ 12]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.03-21.51.04:987][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.51.05:029][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-21.51.05:064][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.03-21.51.05:102][ 80]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.03-21.51.05:103][ 80]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab11BE8650A4806496BE7CEF489B8ADD3EB.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.03-21.51.05:109][ 80]LogFileHelpers: Saving map 'Lab1' took 0.081
+[2024.04.03-21.51.05:117][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1.11 sec)
+[2024.04.03-21.51.05:118][ 80]AssetCheck: New page: Asset Save: Lab1
+[2024.04.03-21.51.05:119][ 80]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.03-21.51.07:276][279]BlueprintLog: New page: Compile BP_ThirdPersonController
+[2024.04.03-21.51.07:309][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.03-21.51.07:995][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.51.08:032][352]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonController
+[2024.04.03-21.51.08:033][352]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonController5122A3824682CFB33FBDEC820CCD064D.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonController.uasset'
+[2024.04.03-21.51.08:039][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.15 sec)
+[2024.04.03-21.51.08:040][352]AssetCheck: New page: Asset Save: BP_ThirdPersonController
+[2024.04.03-21.51.08:040][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonController.BP_ThirdPersonController
+[2024.04.03-21.51.41:935][215]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.51.41:983][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.03-21.51.59:460][848]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.03-21.51.59:464][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.03-21.51.59:464][848]PIE: New page: PIE session: Lab1 (4 Nis 2024 03:51:59)
+[2024.04.03-21.51.59:464][848]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2024.04.03-21.51.59:468][848]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.04.03-21.51.59:475][849]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.03-21.51.59:483][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008663s)
+[2024.04.03-21.51.59:483][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.008693s)
+[2024.04.03-21.51.59:496][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.03-21.51.59:501][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.51.59:501][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.51.59:502][849]LogAIModule: Creating AISystem for world Lab1
+[2024.04.03-21.51.59:502][849]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2024.04.03-21.51.59:502][849]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.03-21.51.59:502][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.03-21.51.59:502][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.03-21.51.59:502][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.03-21.51.59:502][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.03-21.51.59:502][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.03-21.51.59:502][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.03-21.51.59:502][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.03-21.51.59:502][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.03-21.51.59:502][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.03-21.51.59:502][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.03-21.51.59:502][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.03-21.51.59:504][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.03-21.51.59:522][849]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.03-21.51.59:522][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.03-21.51.59:522][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.03-21.51.59:522][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.03-21.51.59:523][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.03-21.51.59:523][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2024.04.03-21.51.59:524][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.03-21.51.59:524][849]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.03-21.51.59:524][849]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lab1'.
+[2024.04.03-21.51.59:524][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.03-21.51.59:524][849]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.03-21.51.59:556][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.51.59:557][849]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.03-21.51.59:564][849]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.04-00.51.59
+[2024.04.03-21.51.59:564][849]LogWorld: Bringing up level for play took: 0.007396
+[2024.04.03-21.51.59:572][849]PIE: Server logged in
+[2024.04.03-21.51.59:574][849]PIE: Play in editor total start time 0,11 seconds.
+[2024.04.03-21.51.59:584][849]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.03-21.52.08:208][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.52.08:208][419]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.03-21.52.08:209][419]LogSlate: Window 'Midterm Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.03-21.52.08:214][419]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.52.08:215][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.52.08:217][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.03-21.52.08:221][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.52.08:234][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.03-21.52.08:234][419]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.03-21.52.08:234][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.03-21.52.08:236][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.03-21.52.08:244][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.03-21.52.08:282][421]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.03-21.52.28:428][276]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PainCausingVolume
+[2024.04.03-21.52.28:429][276]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PainCausingVolume
+[2024.04.03-21.52.28:431][276]LogActorFactory: Actor Factory spawned Class /Script/Engine.PainCausingVolume as actor: PainCausingVolume /Game/Lab1.Lab1:PersistentLevel.PainCausingVolume_0
+[2024.04.03-21.52.28:435][276]LogActorFactory: Actor Factory spawned Class /Script/Engine.PainCausingVolume as actor: PainCausingVolume /Game/Lab1.Lab1:PersistentLevel.PainCausingVolume_0
+[2024.04.03-21.52.31:809][595]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.03-21.52.31:814][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.03-21.52.31:814][595]PIE: New page: PIE session: Lab1 (4 Nis 2024 03:52:31)
+[2024.04.03-21.52.31:814][595]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2024.04.03-21.52.31:816][595]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.04.03-21.52.31:824][596]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.03-21.52.31:833][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008749s)
+[2024.04.03-21.52.31:833][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.008779s)
+[2024.04.03-21.52.31:848][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.03-21.52.31:850][596]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.03-21.52.31:850][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.03-21.52.31:851][596]LogAIModule: Creating AISystem for world Lab1
+[2024.04.03-21.52.31:851][596]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2024.04.03-21.52.31:851][596]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.03-21.52.31:851][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.03-21.52.31:851][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.03-21.52.31:851][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.03-21.52.31:851][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.03-21.52.31:851][596]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.03-21.52.31:851][596]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.03-21.52.31:851][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.03-21.52.31:851][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.03-21.52.31:851][596]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.03-21.52.31:851][596]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.03-21.52.31:851][596]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.03-21.52.31:853][596]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.03-21.52.31:871][596]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.03-21.52.31:871][596]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.03-21.52.31:871][596]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.03-21.52.31:871][596]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.03-21.52.31:872][596]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.03-21.52.31:872][596]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2024.04.03-21.52.31:874][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.03-21.52.31:874][596]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.03-21.52.31:874][596]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.03-21.52.31:874][596]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lab1'.
+[2024.04.03-21.52.31:874][596]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.03-21.52.31:876][596]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.03-21.52.31:882][596]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.04-00.52.31
+[2024.04.03-21.52.31:882][596]LogWorld: Bringing up level for play took: 0.006168
+[2024.04.03-21.52.31:886][596]PIE: Server logged in
+[2024.04.03-21.52.31:887][596]PIE: Play in editor total start time 0,073 seconds.
+[2024.04.03-21.52.45:097][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.52.45:097][543]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.03-21.52.45:097][543]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.03-21.52.45:098][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.52.45:101][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.03-21.52.45:105][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.03-21.52.45:115][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.03-21.52.45:116][543]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.03-21.52.45:116][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.03-21.52.45:117][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.03-21.52.45:124][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.03-21.52.45:169][544]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.04.03-21.53.39:068][424]Cmd: DELETE
+[2024.04.03-21.53.39:068][424]Cmd: ACTOR DELETE
+[2024.04.03-21.53.39:075][424]LogEditorActor: Deleted Actor: PainCausingVolume
+[2024.04.03-21.53.39:090][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.04.03-21.53.39:093][424]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.04.03-21.54.58:679][999]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.03-21.54.58:727][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.03-21.55.00:006][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.55.00:180][137]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.03-21.55.00:181][137]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonCharacter572E91BA44D7FDD209734DA52F137FE6.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.03-21.55.00:187][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 1.33 sec)
+[2024.04.03-21.55.00:188][137]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.03-21.55.00:188][137]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.03-21.55.01:514][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.03-21.55.01:621][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.03-21.55.01:654][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.03-21.55.01:687][270]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.03-21.55.01:688][270]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1B2ABE52C455D6A79822765AB23F6AC86.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.03-21.55.01:693][270]LogFileHelpers: Saving map 'Lab1' took 0.072
+[2024.04.03-21.55.01:699][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 1.52 sec)
+[2024.04.03-21.55.01:701][270]AssetCheck: New page: Asset Save: Lab1
+[2024.04.03-21.55.01:701][270]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
