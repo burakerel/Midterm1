@@ -3339,3 +3339,408 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Stop Damage
 [2024.04.04-22.23.56:902][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1.93 sec)
 [2024.04.04-22.23.56:903][ 32]AssetCheck: New page: Asset Save: Poison_Trap
 [2024.04.04-22.23.56:903][ 32]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Poison_Trap.Poison_Trap
+[2024.04.04-22.25.16:508][542]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-22.25.16:513][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-22.25.16:513][542]PIE: New page: PIE session: Lab1 (5 Nis 2024 04:25:16)
+[2024.04.04-22.25.16:513][542]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2024.04.04-22.25.16:515][542]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.04.04-22.25.16:548][543]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.04-22.25.16:557][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009151s)
+[2024.04.04-22.25.16:557][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.009185s)
+[2024.04.04-22.25.16:569][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.04-22.25.16:573][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.25.16:574][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.25.16:574][543]LogAIModule: Creating AISystem for world Lab1
+[2024.04.04-22.25.16:574][543]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2024.04.04-22.25.16:574][543]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.04.04-22.25.16:574][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-22.25.16:574][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-22.25.16:574][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-22.25.16:574][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-22.25.16:574][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-22.25.16:574][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-22.25.16:574][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-22.25.16:574][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-22.25.16:575][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-22.25.16:575][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-22.25.16:575][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-22.25.16:576][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-22.25.16:594][543]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.04-22.25.16:595][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-22.25.16:595][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-22.25.16:595][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-22.25.16:595][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.04.04-22.25.16:595][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=30
+[2024.04.04-22.25.16:597][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.04.04-22.25.16:597][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.04.04-22.25.16:597][543]LogInit: FAudioDevice initialized with ID 30.
+[2024.04.04-22.25.16:597][543]LogAudio: Display: Audio Device (ID: 30) registered with world 'Lab1'.
+[2024.04.04-22.25.16:597][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.04.04-22.25.16:600][543]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.04-22.25.16:606][543]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.05-01.25.16
+[2024.04.04-22.25.16:607][543]LogWorld: Bringing up level for play took: 0.006591
+[2024.04.04-22.25.16:611][543]PIE: Server logged in
+[2024.04.04-22.25.16:612][543]PIE: Play in editor total start time 0,1 seconds.
+[2024.04.04-22.26.03:297][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-22.26.03:297][549]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.04-22.26.03:297][549]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.26.03:298][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.26.03:311][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-22.26.03:314][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.26.03:325][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-22.26.03:326][549]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.04.04-22.26.03:326][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.04.04-22.26.03:328][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.04.04-22.26.03:334][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.04-22.26.03:394][550]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.04.04-22.30.41:158][936]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.04-22.30.41:170][936]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.04-22.30.41:182][937]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.04-22.30.43:470][137]LogContentBrowser: Attempting asset rename: NewFolder -> Poison
+[2024.04.04-22.30.43:471][137]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.Poison_Trap:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.Poison_Trap_C' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.Poison_Trap:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.Poison_Trap:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.Poison_Trap:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.Poison_Trap_C:ReceiveBeginPlay' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.SKEL_Poison_Trap_C:UserConstructionScript' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.SKEL_Poison_Trap_C:posion damage' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.SKEL_Poison_Trap_C:BndEvt__Poison_Trap_Box_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.SKEL_Poison_Trap_C:BndEvt__Poison_Trap_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.SKEL_Poison_Trap_C' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.SKEL_Poison_Trap_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:644][337]LogMetaData: Removing '/Game/Traps/Poison/Poison_Trap.SKEL_Poison_Trap_C:ReceiveBeginPlay' ref from Metadata '/Game/Traps/Poison_Trap.PackageMetaData'
+[2024.04.04-22.30.46:662][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.30.46:681][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Poison/Poison_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Poison/Poison_Trap.uasset" SILENT=true
+[2024.04.04-22.30.46:688][337]LogSavePackage: Moving output files for package: /Game/Traps/Poison/Poison_Trap
+[2024.04.04-22.30.46:689][337]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Poison_Trap53AF41AB4AB19F697AB5349AB40C81E9.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Poison/Poison_Trap.uasset'
+[2024.04.04-22.30.46:697][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Poison_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Poison_Trap.uasset" SILENT=true
+[2024.04.04-22.30.46:698][337]LogSavePackage: Moving output files for package: /Game/Traps/Poison_Trap
+[2024.04.04-22.30.46:699][337]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Poison_Trap95D8C0FD463E8CCB410216BC766C67C7.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Poison_Trap.uasset'
+[2024.04.04-22.30.46:829][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 2.10 sec)
+[2024.04.04-22.30.47:005][337]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.04-22.30.47:005][337]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Poison/Poison_Trap.Poison_Trap
+[2024.04.04-22.30.47:005][337]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Traps/Poison_Trap.Poison_Trap
+[2024.04.04-22.30.47:005][337]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Traps/Poison_Trap.Poison_Trap_C
+[2024.04.04-22.30.47:005][337]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Traps/Poison_Trap.Default__Poison_Trap_C
+[2024.04.04-22.30.49:018][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.30.49:042][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-22.30.49:076][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.04.04-22.30.49:114][485]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-22.30.49:114][485]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab169A0C36548149A92F46603B10CA693ED.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-22.30.49:121][485]LogFileHelpers: Saving map 'Lab1' took 0.079
+[2024.04.04-22.30.49:126][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 2.20 sec)
+[2024.04.04-22.30.49:128][485]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-22.30.49:128][485]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-22.30.51:453][666]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.04-22.30.51:468][666]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.04-22.30.51:481][667]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.04-22.30.52:752][780]LogContentBrowser: Attempting asset rename: NewFolder -> Axe
+[2024.04.04-22.30.52:752][780]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.04-22.31.46:264][565]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.04.04-22.31.46:276][565]LogInterchangeEngine: [Pending] Importing
+[2024.04.04-22.31.46:276][565]LogInterchangeEngine: Display: Interchange start importing source [C:/Program Files/Epi...80-b859-7fb96a675ca6/12351_Axe_v3_l3.obj]
+[2024.04.04-22.31.46:288][565]Interchange: Error: There was no data to import in the provided source data.
+[2024.04.04-22.31.46:299][565]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.04-22.31.46:327][566]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.04-22.31.47:314][613]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient' is outside repository at 'C:/Users/PC/Documents/Unreal Projects/Midterm'
+[2024.04.04-22.32.15:743][475]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.04.04-22.32.15:750][475]LogInterchangeEngine: [Pending] Importing
+[2024.04.04-22.32.15:750][475]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/PC/Desktop/...80-b859-7fb96a675ca6/12351_Axe_v3_l3.mtl]
+[2024.04.04-22.32.15:752][475]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.04-22.32.15:752][475]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/PC/Desktop/...80-b859-7fb96a675ca6/12351_Axe_v3_l3.obj]
+[2024.04.04-22.32.15:753][475]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.04.04-22.32.15:753][475]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/PC/Desktop/...80-b859-7fb96a675ca6/Axe_diffuse.jpg]
+[2024.04.04-22.32.15:758][475]LogInterchangeImport: JPEG file [C:/Users/PC/Desktop/Axe_v3_L3.123ce0e3bcb8-d54d-4b80-b859-7fb96a675ca6/Axe_diffuse.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.04.04-22.32.15:768][475]LogTemp: Warning: Interchange Obj translator: Unexpected extra arguments on vt keyword
+[2024.04.04-22.32.15:773][475]LogTemp: Display: Interchange Obj translator: Unknown keyword: s
+[2024.04.04-22.32.15:798][476]LogTexture: Display: Building textures: /Game/Traps/Axe/Axe_diffuse.Axe_diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.04.04-22.32.15:800][476]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.04-22.32.15:812][476]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.04.04-22.32.15:847][477]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient' is outside repository at 'C:/Users/PC/Documents/Unreal Projects/Midterm'
+[2024.04.04-22.32.15:950][479]LogTexture: Display: Building textures: /Game/Traps/Axe/TEX_Axe_diffuse.TEX_Axe_diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.04.04-22.32.16:004][479]LogStaticMesh: Display: Building static mesh Axe_21...
+[2024.04.04-22.32.16:004][479]LogStaticMesh: Display: Building static mesh Axe_11...
+[2024.04.04-22.32.16:005][479]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.04.04-22.32.16:005][479]Interchange: Warning: Renamed Assets:
+ OriginalName:[/Game/Traps/Axe/Axe_2] NewName:[/Game/Traps/Axe/Axe_21]
+ OriginalName:[/Game/Traps/Axe/Axe_1] NewName:[/Game/Traps/Axe/Axe_11]
+[2024.04.04-22.32.16:005][479]Interchange: Error: XML parse error in C:\Users\PC\Desktop\Axe_v3_L3.123ce0e3bcb8-d54d-4b80-b859-7fb96a675ca6\12351_Axe_v3_l3.mtl (No document element found at character 607)
+[2024.04.04-22.32.16:005][479]Interchange: Error: There was no data to import in the provided source data.
+[2024.04.04-22.32.16:038][479]LogStaticMesh: Built static mesh [0.03s] /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.16:041][479]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.04-22.32.16:076][479]LogStaticMesh: Built static mesh [0.07s] /Game/Traps/Axe/Axe_21.Axe_21
+[2024.04.04-22.32.16:090][479]LogStaticMesh: Warning: Axe_21 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.04-22.32.16:090][479]LogStaticMesh: Warning: Axe_21 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.04.04-22.32.16:100][480]LogInterchangeEngine: Error: [Failure] Import Done
+[2024.04.04-22.32.16:932][508]LogShaderCompilers: Display: ================================================
+[2024.04.04-22.32.16:932][508]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.04-22.32.16:932][508]LogShaderCompilers: Display: Total job queries 20, among them cache hits 5 (25.00%)
+[2024.04.04-22.32.16:932][508]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 7 distinct outputs (87.50%)
+[2024.04.04-22.32.16:932][508]LogShaderCompilers: Display: RAM used: 286,29 KiB of 1,60 GiB budget. Usage: 0.02%
+[2024.04.04-22.32.16:932][508]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.04-22.32.16:932][508]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Jobs assigned 11, completed 8 (72.73%)
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Average time worker was idle: 3329.63 s
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Job execution time: average 0.43 s, max 0.62 s
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Job life time (pending + execution): average 0.49 s, max 0.73
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Shader code size: average 66,889 KiB, min 32,016 KiB, max 73,734 KiB
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.32 s
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Average processing rate: 3.45 jobs/sec
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Total thread time: 1,803 s
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Total thread preprocess time: 0,441 s
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Percentage time preprocessing: 24.48%
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Effective parallelization: 0.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.04.04-22.32.16:933][508]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.22 sec, max 0.25 sec, min 0.19 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.46% of total time (compiled    2 times, average 0.22 sec, max 0.25 sec, min 0.19 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 21.82% of total time (compiled    2 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 20.06% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.34% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy - 10.79% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.04.04-22.32.16:934][508]LogShaderCompilers: Display: ================================================
+[2024.04.04-22.32.17:061][515]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/Transient' is outside repository at 'C:/Users/PC/Documents/Unreal Projects/Midterm'
+[2024.04.04-22.32.18:672][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.18:672][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.18:672][601]LogActorFactory: Actor Factory spawned StaticMesh /Game/Traps/Axe/Axe_11.Axe_11 as actor: StaticMeshActor /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_0
+[2024.04.04-22.32.20:097][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.20:097][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.20:099][687]LogActorFactory: Actor Factory spawned StaticMesh /Game/Traps/Axe/Axe_11.Axe_11 as actor: StaticMeshActor /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_2
+[2024.04.04-22.32.22:051][829]Cmd: TRANSACTION UNDO
+[2024.04.04-22.32.22:051][829]LogEditorTransaction: Undo Create Actors
+[2024.04.04-22.32.25:856][ 45]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.25:856][ 45]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.25:857][ 45]LogActorFactory: Actor Factory spawned StaticMesh /Game/Traps/Axe/Axe_11.Axe_11 as actor: StaticMeshActor /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_3
+[2024.04.04-22.32.25:857][ 45]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_21.Axe_21
+[2024.04.04-22.32.25:857][ 45]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_21.Axe_21
+[2024.04.04-22.32.25:857][ 45]LogActorFactory: Actor Factory spawned StaticMesh /Game/Traps/Axe/Axe_21.Axe_21 as actor: StaticMeshActor /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_4
+[2024.04.04-22.32.26:373][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.26:373][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_11.Axe_11
+[2024.04.04-22.32.26:374][ 79]LogActorFactory: Actor Factory spawned StaticMesh /Game/Traps/Axe/Axe_11.Axe_11 as actor: StaticMeshActor /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_5
+[2024.04.04-22.32.26:398][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_21.Axe_21
+[2024.04.04-22.32.26:398][ 79]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Traps/Axe/Axe_21.Axe_21
+[2024.04.04-22.32.26:398][ 79]LogActorFactory: Actor Factory spawned StaticMesh /Game/Traps/Axe/Axe_21.Axe_21 as actor: StaticMeshActor /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_6
+[2024.04.04-22.32.30:385][364]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0, from: Addition to navoctree)
+[2024.04.04-22.32.30:385][364]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_5.StaticMeshComponent0, from: Addition to navoctree)
+[2024.04.04-22.32.30:431][367]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0, from: Remove from navoctree)
+[2024.04.04-22.32.30:431][367]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_5.StaticMeshComponent0, from: Remove from navoctree)
+[2024.04.04-22.32.30:948][402]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0, from: Addition to navoctree)
+[2024.04.04-22.32.30:948][402]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_5.StaticMeshComponent0, from: Addition to navoctree)
+[2024.04.04-22.32.30:964][403]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0, from: Remove from navoctree)
+[2024.04.04-22.32.30:964][403]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Lab1.Lab1:PersistentLevel.StaticMeshActor_5.StaticMeshComponent0, from: Remove from navoctree)
+[2024.04.04-22.33.20:446][153]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.04-22.33.20:453][153]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.04-22.33.20:460][153]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.04-22.33.20:473][154]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.04-22.33.21:972][271]LogContentBrowser: Attempting asset rename: NewBlueprint -> Axe
+[2024.04.04-22.33.22:086][271]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.04-22.33.23:228][356]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps/Axe/Axe.Axe
+[2024.04.04-22.33.23:229][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.33.23:229][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.33.23:403][356]LogViewport: Scene viewport resized to 876x547, mode Windowed.
+[2024.04.04-22.33.24:817][436]LogViewport: Scene viewport resized to 874x565, mode Windowed.
+[2024.04.04-22.33.24:901][438]LogViewport: Scene viewport resized to 466x249, mode Windowed.
+[2024.04.04-22.33.24:934][439]LogViewport: Scene viewport resized to 426x219, mode Windowed.
+[2024.04.04-22.33.24:999][443]LogViewport: Scene viewport resized to 1396x979, mode Windowed.
+[2024.04.04-22.33.25:761][516]LogViewport: Scene viewport resized to 1394x997, mode Windowed.
+[2024.04.04-22.33.25:831][518]LogViewport: Scene viewport resized to 497x284, mode Windowed.
+[2024.04.04-22.33.25:861][519]LogViewport: Scene viewport resized to 426x228, mode Windowed.
+[2024.04.04-22.33.25:918][524]LogViewport: Scene viewport resized to 1396x979, mode Windowed.
+[2024.04.04-22.33.26:340][571]LogSlate: Window 'Axe' being destroyed
+[2024.04.04-22.33.43:431][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.34.48:391][147]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.04-22.34.48:848][161]Cmd: TRANSACTION UNDO
+[2024.04.04-22.34.48:848][161]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.04-22.35.03:653][905]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.04-22.36.11:969][924]BlueprintLog: New page: Compile Axe
+[2024.04.04-22.36.12:041][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.04-22.36.12:822][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.36.12:854][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Axe/Axe" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset" SILENT=true
+[2024.04.04-22.36.12:857][997]LogSavePackage: Moving output files for package: /Game/Traps/Axe/Axe
+[2024.04.04-22.36.12:857][997]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Axe3DAF254B4EE759C61B77A2B952B9FB24.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset'
+[2024.04.04-22.36.12:994][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 2.38 sec)
+[2024.04.04-22.36.12:995][997]AssetCheck: New page: Asset Save: Axe
+[2024.04.04-22.36.12:995][997]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Axe/Axe.Axe
+[2024.04.04-22.36.30:743][107]BlueprintLog: New page: Compile Axe
+[2024.04.04-22.36.30:766][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.04-22.36.31:547][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.36.31:628][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Axe/Axe" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset" SILENT=true
+[2024.04.04-22.36.31:631][185]LogSavePackage: Moving output files for package: /Game/Traps/Axe/Axe
+[2024.04.04-22.36.31:632][185]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/AxeA5D11BDE43D3062C494D15A953E8ECEC.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset'
+[2024.04.04-22.36.31:638][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.47 sec)
+[2024.04.04-22.36.31:639][185]AssetCheck: New page: Asset Save: Axe
+[2024.04.04-22.36.31:639][185]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Axe/Axe.Axe
+[2024.04.04-22.36.59:908][419]LogSlate: Took 0.004777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.04-22.37.57:424][ 27]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.04-22.37.57:497][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.04-22.37.58:220][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.37.58:321][ 78]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.04-22.37.58:321][ 78]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/BP_ThirdPersonCharacter6C10D751489E83A5DB6DBA9202EB3E6D.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.04-22.37.58:327][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.57 sec)
+[2024.04.04-22.37.58:328][ 78]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.04-22.37.58:328][ 78]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.04-22.38.50:830][ 15]BlueprintLog: New page: Compile Axe
+[2024.04.04-22.38.50:856][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.04-22.38.58:899][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.38.58:974][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Axe/Axe" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset" SILENT=true
+[2024.04.04-22.38.58:978][960]LogSavePackage: Moving output files for package: /Game/Traps/Axe/Axe
+[2024.04.04-22.38.58:979][960]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Axe530F4EF14A19DBE542178FB4B4A269BB.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset'
+[2024.04.04-22.38.58:984][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.66 sec)
+[2024.04.04-22.38.58:985][960]AssetCheck: New page: Asset Save: Axe
+[2024.04.04-22.38.58:985][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Axe/Axe.Axe
+[2024.04.04-22.39.00:185][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.39.00:209][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-22.39.00:241][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.04-22.39.00:277][ 41]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-22.39.00:277][ 41]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab19F1CF98A4FB4E0B8135ECE837291DA05.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-22.39.00:281][ 41]LogFileHelpers: Saving map 'Lab1' took 0.073
+[2024.04.04-22.39.00:287][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.76 sec)
+[2024.04.04-22.39.00:289][ 41]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-22.39.00:289][ 41]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-22.39.16:920][275]Cmd: DELETE
+[2024.04.04-22.39.16:920][275]Cmd: ACTOR DELETE
+[2024.04.04-22.39.16:925][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.04-22.39.16:937][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.04-22.39.16:942][275]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.04.04-22.39.17:496][315]Cmd: DELETE
+[2024.04.04-22.39.17:496][315]Cmd: ACTOR DELETE
+[2024.04.04-22.39.17:499][315]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.04-22.39.17:512][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.04-22.39.17:516][315]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.04.04-22.39.18:586][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Axe/Axe.Axe_C
+[2024.04.04-22.39.18:586][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Axe/Axe.Axe_C
+[2024.04.04-22.39.18:588][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Axe/Axe.Axe as actor: Axe_C /Game/Lab1.Lab1:PersistentLevel.Axe_C_0
+[2024.04.04-22.39.18:589][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Axe/Axe.Axe as actor: Axe_C /Game/Lab1.Lab1:PersistentLevel.Axe_C_0
+[2024.04.04-22.39.19:197][431]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Axe/Axe.Axe_C
+[2024.04.04-22.39.19:197][431]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Axe/Axe.Axe_C
+[2024.04.04-22.39.19:199][431]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Axe/Axe.Axe as actor: Axe_C /Game/Lab1.Lab1:PersistentLevel.Axe_C_1
+[2024.04.04-22.39.19:200][431]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Axe/Axe.Axe as actor: Axe_C /Game/Lab1.Lab1:PersistentLevel.Axe_C_1
+[2024.04.04-22.39.25:696][927]Cmd: DELETE
+[2024.04.04-22.39.25:696][927]Cmd: ACTOR DELETE
+[2024.04.04-22.39.25:700][927]LogEditorActor: Deleted Actor: Axe_C
+[2024.04.04-22.39.25:715][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.04-22.39.25:721][927]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.04.04-22.39.49:670][638]BlueprintLog: New page: Compile Axe
+[2024.04.04-22.39.49:705][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.04.04-22.39.50:482][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.39.50:514][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Axe/Axe" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset" SILENT=true
+[2024.04.04-22.39.50:518][712]LogSavePackage: Moving output files for package: /Game/Traps/Axe/Axe
+[2024.04.04-22.39.50:518][712]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/AxeCB46D3414DE55C0B37B20493FD66C98D.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset'
+[2024.04.04-22.39.50:524][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 2.80 sec)
+[2024.04.04-22.39.50:525][712]AssetCheck: New page: Asset Save: Axe
+[2024.04.04-22.39.50:526][712]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Axe/Axe.Axe
+[2024.04.04-22.39.51:715][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.39.51:742][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-22.39.51:773][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.04-22.39.51:808][814]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-22.39.51:809][814]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1E29551D840B88EE2EA195A93B68EB600.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-22.39.51:813][814]LogFileHelpers: Saving map 'Lab1' took 0.071
+[2024.04.04-22.39.51:819][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.91 sec)
+[2024.04.04-22.39.51:820][814]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-22.39.51:820][814]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-22.39.54:853][ 39]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Axe/Axe.Axe_C
+[2024.04.04-22.39.54:853][ 39]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Axe/Axe.Axe_C
+[2024.04.04-22.39.54:855][ 39]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Axe/Axe.Axe as actor: Axe_C /Game/Lab1.Lab1:PersistentLevel.Axe_C_2
+[2024.04.04-22.39.54:856][ 39]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Axe/Axe.Axe as actor: Axe_C /Game/Lab1.Lab1:PersistentLevel.Axe_C_2
+[2024.04.04-22.39.55:447][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Axe/Axe.Axe_C
+[2024.04.04-22.39.55:447][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Axe/Axe.Axe_C
+[2024.04.04-22.39.55:450][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Axe/Axe.Axe as actor: Axe_C /Game/Lab1.Lab1:PersistentLevel.Axe_C_3
+[2024.04.04-22.39.55:451][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Axe/Axe.Axe as actor: Axe_C /Game/Lab1.Lab1:PersistentLevel.Axe_C_3
+[2024.04.04-22.40.39:958][567]BlueprintLog: New page: Compile Axe
+[2024.04.04-22.40.40:006][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.04-22.40.40:620][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.40.40:653][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Axe/Axe" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset" SILENT=true
+[2024.04.04-22.40.40:657][616]LogSavePackage: Moving output files for package: /Game/Traps/Axe/Axe
+[2024.04.04-22.40.40:657][616]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Axe4D49E090474FBDC85B952DACDA8F04EA.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset'
+[2024.04.04-22.40.40:663][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.95 sec)
+[2024.04.04-22.40.40:665][616]AssetCheck: New page: Asset Save: Axe
+[2024.04.04-22.40.40:665][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Axe/Axe.Axe
+[2024.04.04-22.40.51:617][898]BlueprintLog: New page: Compile Axe
+[2024.04.04-22.40.51:646][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.04-22.40.52:270][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.40.52:305][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Axe/Axe" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset" SILENT=true
+[2024.04.04-22.40.52:310][949]LogSavePackage: Moving output files for package: /Game/Traps/Axe/Axe
+[2024.04.04-22.40.52:310][949]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/AxeCF55461D47A8B949E8A2E591B2949411.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Axe/Axe.uasset'
+[2024.04.04-22.40.52:316][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 3.00 sec)
+[2024.04.04-22.40.52:317][949]AssetCheck: New page: Asset Save: Axe
+[2024.04.04-22.40.52:317][949]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Axe/Axe.Axe
+[2024.04.04-22.40.56:819][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.40.56:845][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-22.40.56:875][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.04-22.40.56:911][371]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-22.40.56:912][371]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1CBC503AB4D851A21EBB810BBB953F890.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-22.40.56:916][371]LogFileHelpers: Saving map 'Lab1' took 0.072
+[2024.04.04-22.40.56:922][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 3.10 sec)
+[2024.04.04-22.40.56:924][371]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-22.40.56:924][371]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-22.41.02:740][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-22.41.02:747][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-22.41.02:747][854]PIE: New page: PIE session: Lab1 (5 Nis 2024 04:41:02)
+[2024.04.04-22.41.02:747][854]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2024.04.04-22.41.02:750][854]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.04.04-22.41.02:784][855]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.04-22.41.02:793][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008999s)
+[2024.04.04-22.41.02:793][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.009032s)
+[2024.04.04-22.41.02:805][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.04-22.41.02:808][855]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.41.02:808][855]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.41.02:809][855]LogAIModule: Creating AISystem for world Lab1
+[2024.04.04-22.41.02:809][855]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2024.04.04-22.41.02:809][855]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.04.04-22.41.02:809][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-22.41.02:809][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-22.41.02:809][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-22.41.02:809][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-22.41.02:809][855]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-22.41.02:809][855]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-22.41.02:809][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-22.41.02:809][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-22.41.02:809][855]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-22.41.02:809][855]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-22.41.02:809][855]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-22.41.02:811][855]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-22.41.02:831][855]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.04-22.41.02:831][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-22.41.02:831][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-22.41.02:831][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-22.41.02:832][855]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.04.04-22.41.02:832][855]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=31
+[2024.04.04-22.41.02:833][855]LogInit: FAudioDevice initialized with ID 31.
+[2024.04.04-22.41.02:833][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.04.04-22.41.02:833][855]LogAudio: Display: Audio Device (ID: 31) registered with world 'Lab1'.
+[2024.04.04-22.41.02:833][855]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.04.04-22.41.02:833][855]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.04.04-22.41.02:836][855]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.04-22.41.02:842][855]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.05-01.41.02
+[2024.04.04-22.41.02:842][855]LogWorld: Bringing up level for play took: 0.006644
+[2024.04.04-22.41.02:848][855]PIE: Server logged in
+[2024.04.04-22.41.02:849][855]PIE: Play in editor total start time 0,103 seconds.
+[2024.04.04-22.41.26:878][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-22.41.26:878][468]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.04-22.41.26:878][468]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.41.26:879][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.41.26:894][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-22.41.26:898][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.41.26:910][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-22.41.26:911][468]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.04.04-22.41.26:911][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.04.04-22.41.26:912][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.04.04-22.41.26:919][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.04-22.41.26:976][469]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.04.04-22.41.28:453][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.41.28:476][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-22.41.28:506][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.04.04-22.41.28:541][576]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-22.41.28:542][576]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab17477B2B147D5B45F038A6DA097806695.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-22.41.28:546][576]LogFileHelpers: Saving map 'Lab1' took 0.071
+[2024.04.04-22.41.28:553][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.20 sec)
+[2024.04.04-22.41.28:555][576]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-22.41.28:555][576]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
