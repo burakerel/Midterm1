@@ -3744,3 +3744,870 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Stop Damage
 [2024.04.04-22.41.28:553][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.20 sec)
 [2024.04.04-22.41.28:555][576]AssetCheck: New page: Asset Save: Lab1
 [2024.04.04-22.41.28:555][576]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-22.49.52:678][311]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.04-22.49.52:693][311]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.04-22.49.52:705][312]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.04-22.49.54:194][434]LogContentBrowser: Attempting asset rename: NewFolder -> Stake
+[2024.04.04-22.49.54:195][434]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.04-22.50.25:101][679]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\PC\Desktop\source\SpikeTrap_HideAnimation.fbx)
+[2024.04.04-22.50.25:114][679]LogFbx: Loading FBX Scene from C:\Users\PC\Desktop\source\SpikeTrap_HideAnimation.fbx
+[2024.04.04-22.50.25:132][679]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.04-22.50.31:787][679]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.04-22.50.31:809][679]LogFbx: Valid bind pose for Pose (Malla) - SpikeTrap
+[2024.04.04-22.50.31:813][679]LogMaterial: Display: Material /Game/Traps/Stake/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.04.04-22.50.31:841][679]LogFbx: Bones digested - 51  Depth of hierarchy - 3
+[2024.04.04-22.50.31:896][679]LogSkeletalMesh: Section 0: Material=0, 673 triangles
+[2024.04.04-22.50.31:905][679]LogSkeletalMesh: Building Skeletal Mesh SpikeTrap_HideAnimation...
+[2024.04.04-22.50.31:918][679]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation
+[2024.04.04-22.50.31:991][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.50.31:991][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.50.32:005][679]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2024.04.04-22.50.32:005][679]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.50.32:005][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.50.32:040][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.50.32:040][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.50.32:051][679]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.50.32:051][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(0) Main
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(1) spike_1
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(2) spike_1_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(3) spike_2
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(4) spike_2_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(5) spike_3
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(6) spike_3_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(7) spike_4
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(8) spike_4_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(9) spike_5
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(10) spike_5_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(11) spike_6
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(12) spike_6_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(13) spike_7
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(14) spike_7_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(15) spike_8
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(16) spike_8_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(17) spike_9
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(18) spike_9_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(19) spike_10
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(20) spike_10_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(21) spike_11
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(22) spike_11_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(23) spike_12
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(24) spike_12_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(25) spike_13
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(26) spike_13_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(27) spike_14
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(28) spike_14_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(29) spike_15
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(30) spike_15_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(31) spike_16
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(32) spike_16_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(33) spike_17
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(34) spike_17_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(35) spike_18
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(36) spike_18_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(37) spike_19
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(38) spike_19_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(39) spike_20
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(40) spike_20_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(41) spike_21
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(42) spike_21_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(43) spike_22
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(44) spike_22_end
+[2024.04.04-22.50.32:059][679]LogFbx: SortedLinks :(45) spike_23
+[2024.04.04-22.50.32:060][679]LogFbx: SortedLinks :(46) spike_23_end
+[2024.04.04-22.50.32:060][679]LogFbx: SortedLinks :(47) spike_24
+[2024.04.04-22.50.32:060][679]LogFbx: SortedLinks :(48) spike_24_end
+[2024.04.04-22.50.32:060][679]LogFbx: SortedLinks :(49) spike_25
+[2024.04.04-22.50.32:060][679]LogFbx: SortedLinks :(50) spike_25_end
+[2024.04.04-22.50.32:060][679]LogFbx: Parsing AnimStack Armature|Armature|SpikeTrap_HideAnimation|BaseLayer
+[2024.04.04-22.50.32:181][679]LogFbx: Warning: IMPORT TRANSFORM ERROR : Bone (Main:0) 
+Source Global Transform (0.002970,0.006330,-0.382951|0.000000,0.000000,90.000009|1.000000,1.000000,1.000000), 
+Converted Global Transform (0.002970,0.382951,0.006330|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000)
+[2024.04.04-22.50.32:186][679]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim.SpikeTrap_HideAnimation_Anim
+[2024.04.04-22.50.32:190][679]LogAnimationCompression: Display: Storing compressed animation data for /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim.SpikeTrap_HideAnimation_Anim, at AnimationSequence/d6b0b3398bb9ddbc17314581134485bbb11fb9fd
+[2024.04.04-22.50.32:195][679]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.04-22.50.32:195][679]FBXImport: Warning: The following bones are missing from the bind pose:
+spike_1_end  
+spike_2_end  
+spike_3_end  
+spike_4_end  
+spike_5_end  
+spike_6_end  
+spike_7_end  
+spike_8_end  
+spike_9_end  
+spike_10_end  
+spike_11_end  
+spike_12_end  
+spike_13_end  
+spike_14_end  
+spike_15_end  
+spike_16_end  
+spike_17_end  
+spike_18_end  
+spike_19_end  
+spike_20_end  
+spike_21_end  
+spike_22_end  
+spike_23_end  
+spike_24_end  
+spike_25_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2024.04.04-22.50.32:195][679]FBXImport: Warning: Imported bone transform is different from original. Please check Output Log to see detail of error.  
+[2024.04.04-22.50.32:281][680]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.50.32:518][681]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.50.32:905][706]LogShaderCompilers: Display: ================================================
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Total job queries 52, among them cache hits 5 (9.62%)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Tracking 13 distinct input hashes that result in 12 distinct outputs (92.31%)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: RAM used: 395,08 KiB of 1,60 GiB budget. Usage: 0.02%
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Shaders Compiled: 13
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100%)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Average time worker was idle: 2833.11 s
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.04 s
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Job life time (pending + execution): average 0.61 s, max 1.04
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Shader code size: average 55,1 KiB, min 32,016 KiB, max 73,734 KiB
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.14 s
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Average processing rate: 4.14 jobs/sec
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Total thread time: 3,787 s
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Total thread preprocess time: 1,472 s
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Percentage time preprocessing: 38.86%
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Effective parallelization: 1.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.34 sec, max 0.60 sec, min 0.21 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.28 sec, max 0.50 sec, min 0.18 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.62% of total time (compiled    4 times, average 0.28 sec, max 0.50 sec, min 0.18 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.08% of total time (compiled    3 times, average 0.34 sec, max 0.60 sec, min 0.21 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.21% of total time (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.39% of total time (compiled    2 times, average 0.20 sec, max 0.20 sec, min 0.19 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.55% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.04.04-22.50.32:906][706]LogShaderCompilers: Display: ================================================
+[2024.04.04-22.50.33:094][712]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.50.33:125][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.50.36:037][883]LogSlate: Window 'Message Log' being destroyed
+[2024.04.04-22.50.36:054][883]LogSlate: Window 'Message Log' being destroyed
+[2024.04.04-22.50.39:432][108]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation
+[2024.04.04-22.50.39:457][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.50.39:457][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.50.39:516][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-22.50.39:904][108]LogViewport: Scene viewport resized to 1910x1226, mode Windowed.
+[2024.04.04-22.50.44:086][505]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.50.44:086][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.50.46:450][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.50.46:476][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-22.50.46:507][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.04-22.50.46:542][706]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-22.50.46:543][706]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab1810034764F42B6A47D4B24BFF7DF4514.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-22.50.46:547][706]LogFileHelpers: Saving map 'Lab1' took 0.072
+[2024.04.04-22.50.46:553][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 3.30 sec)
+[2024.04.04-22.50.46:554][706]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-22.50.46:554][706]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-22.50.52:236][ 85]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation
+[2024.04.04-22.50.52:236][ 85]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation
+[2024.04.04-22.50.52:237][ 85]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation as actor: SkeletalMeshActor /Game/Lab1.Lab1:PersistentLevel.SkeletalMeshActor_0
+[2024.04.04-22.50.52:238][ 85]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation as actor: SkeletalMeshActor /Game/Lab1.Lab1:PersistentLevel.SkeletalMeshActor_0
+[2024.04.04-22.50.53:344][159]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation
+[2024.04.04-22.50.53:344][159]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation
+[2024.04.04-22.50.53:345][159]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation as actor: SkeletalMeshActor /Game/Lab1.Lab1:PersistentLevel.SkeletalMeshActor_1
+[2024.04.04-22.50.53:345][159]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Traps/Stake/SpikeTrap_HideAnimation.SpikeTrap_HideAnimation as actor: SkeletalMeshActor /Game/Lab1.Lab1:PersistentLevel.SkeletalMeshActor_1
+[2024.04.04-22.51.02:138][828]Cmd: DELETE
+[2024.04.04-22.51.02:138][828]Cmd: ACTOR DELETE
+[2024.04.04-22.51.02:145][828]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.04.04-22.51.02:157][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.04-22.51.02:161][828]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.04.04-22.51.47:368][536]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim.SpikeTrap_HideAnimation_Anim
+[2024.04.04-22.51.47:372][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.51.47:372][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.51.47:431][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-22.51.47:643][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.51.47:643][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.51.47:839][536]LogSlate: Took 0.005239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.04.04-22.51.47:849][536]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.04.04-22.51.47:856][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.51.47:856][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.51.47:873][536]LogViewport: Scene viewport resized to 1525x754, mode Windowed.
+[2024.04.04-22.51.47:901][536]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-22.51.57:072][438]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.51.57:072][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.51.57:083][438]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.51.57:083][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.51.57:134][438]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.51.57:134][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.51.58:954][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.51.58:981][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-22.51.59:014][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.04-22.51.59:050][605]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-22.51.59:051][605]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab14F667C404176D9DED0DE678A314CCADB.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-22.51.59:056][605]LogFileHelpers: Saving map 'Lab1' took 0.076
+[2024.04.04-22.51.59:062][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 3.41 sec)
+[2024.04.04-22.51.59:063][605]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-22.51.59:063][605]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-22.52.04:643][665]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim.SpikeTrap_HideAnimation_Anim
+[2024.04.04-22.52.04:644][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.52.04:644][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.52.04:656][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-22.52.04:860][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.52.04:860][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.52.05:012][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.52.05:012][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.52.05:029][665]LogViewport: Scene viewport resized to 1525x754, mode Windowed.
+[2024.04.04-22.52.05:052][665]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-22.52.06:047][738]LogViewport: Scene viewport resized to 1523x768, mode Windowed.
+[2024.04.04-22.52.06:116][740]LogViewport: Scene viewport resized to 545x233, mode Windowed.
+[2024.04.04-22.52.06:177][741]LogViewport: Scene viewport resized to 1525x754, mode Windowed.
+[2024.04.04-22.52.21:092][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.52.21:141][496]LogSavePackage: Moving output files for package: /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim
+[2024.04.04-22.52.21:141][496]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/SpikeTrap_HideAnimation_Anim9872AEA1488BB029A7087FAE20D262D0.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/SpikeTrap_HideAnimation_Anim.uasset'
+[2024.04.04-22.52.21:282][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 3.60 sec)
+[2024.04.04-22.52.21:283][496]AssetCheck: New page: Asset Save: SpikeTrap_HideAnimation_Anim
+[2024.04.04-22.52.21:283][496]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim.SpikeTrap_HideAnimation_Anim
+[2024.04.04-22.52.27:918][206]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.52.27:918][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.52.27:928][206]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.52.27:929][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.52.27:981][206]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-22.52.27:981][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-22.52.31:271][362]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.04-22.52.31:277][362]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.04-22.52.31:284][362]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.04-22.52.31:295][363]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.04-22.52.40:804][152]LogContentBrowser: Attempting asset rename: NewBlueprint -> Stake_Trap
+[2024.04.04-22.52.40:909][152]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.04-22.52.41:926][236]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-22.52.41:926][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.52.41:926][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-22.52.42:062][236]LogViewport: Scene viewport resized to 1396x979, mode Windowed.
+[2024.04.04-22.53.17:557][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-22.55.38:490][249]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-22.55.38:519][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.04.04-22.55.39:096][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.55.39:128][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-22.55.39:131][294]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-22.55.39:131][294]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_Trap4EE8A6F74CC0589578CAC39D6AD07F59.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-22.55.39:273][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 3.78 sec)
+[2024.04.04-22.55.39:274][294]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-22.55.39:274][294]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-22.56.19:928][842]LogDerivedDataCache: C:/Users/PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 698 files in 1203 folders with total size 8 MiB.
+[2024.04.04-22.57.01:997][269]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.04-22.58.09:415][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.09:415][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.09:417][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_0
+[2024.04.04-22.58.09:418][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_0
+[2024.04.04-22.58.09:987][ 88]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.09:987][ 88]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.09:989][ 88]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_1
+[2024.04.04-22.58.09:990][ 88]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_1
+[2024.04.04-22.58.14:471][390]Cmd: DELETE
+[2024.04.04-22.58.14:471][390]Cmd: ACTOR DELETE
+[2024.04.04-22.58.14:474][390]LogEditorActor: Deleted Actor: Poison_Trap_C
+[2024.04.04-22.58.14:493][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.04-22.58.14:497][390]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.04.04-22.58.15:419][460]Cmd: DELETE
+[2024.04.04-22.58.15:419][460]Cmd: ACTOR DELETE
+[2024.04.04-22.58.15:422][460]LogEditorActor: Deleted Actor: Stake_Trap_C
+[2024.04.04-22.58.15:436][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.04.04-22.58.15:439][460]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.04.04-22.58.17:385][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.58.17:415][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Poison/Poison_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Poison/Poison_Trap.uasset" SILENT=true
+[2024.04.04-22.58.17:422][639]LogSavePackage: Moving output files for package: /Game/Traps/Poison/Poison_Trap
+[2024.04.04-22.58.17:422][639]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Poison_Trap32B5233543B05FDFEDE609B1CD99A367.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Poison/Poison_Trap.uasset'
+[2024.04.04-22.58.17:429][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 3.82 sec)
+[2024.04.04-22.58.17:430][639]AssetCheck: New page: Asset Save: Poison_Trap
+[2024.04.04-22.58.17:430][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Poison/Poison_Trap.Poison_Trap
+[2024.04.04-22.58.22:991][221]LogViewport: Scene viewport resized to 1394x997, mode Windowed.
+[2024.04.04-22.58.23:015][222]LogViewport: Scene viewport resized to 1396x979, mode Windowed.
+[2024.04.04-22.58.24:112][350]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-22.58.24:135][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.04-22.58.24:809][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.58.24:845][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-22.58.24:847][408]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-22.58.24:848][408]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_Trap41C944EF4A080EC21319BB8E3A68006E.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-22.58.24:854][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 3.87 sec)
+[2024.04.04-22.58.24:855][408]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-22.58.24:855][408]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-22.58.31:398][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.31:398][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.31:400][128]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_2
+[2024.04.04-22.58.31:401][128]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_2
+[2024.04.04-22.58.32:261][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.32:261][183]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.32:263][183]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_3
+[2024.04.04-22.58.32:264][183]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_3
+[2024.04.04-22.58.33:042][239]Cmd: DELETE
+[2024.04.04-22.58.33:042][239]Cmd: ACTOR DELETE
+[2024.04.04-22.58.33:045][239]LogEditorActor: Deleted Actor: Stake_Trap_C
+[2024.04.04-22.58.33:060][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.04-22.58.33:065][239]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.04.04-22.58.38:309][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.58.38:339][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-22.58.38:341][806]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-22.58.38:342][806]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_Trap0EB3313F4A630C846227F4AA071442A6.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-22.58.38:347][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 3.91 sec)
+[2024.04.04-22.58.38:347][806]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-22.58.38:347][806]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-22.58.38:520][818]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-22.58.38:545][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-22.58.38:548][818]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-22.58.38:549][818]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_Trap653C08814116C7535606AC8F7961A852.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-22.58.38:554][818]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 3.94 sec)
+[2024.04.04-22.58.38:555][818]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-22.58.38:555][818]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-22.58.40:599][  5]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.40:599][  5]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.40:601][  5]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_4
+[2024.04.04-22.58.40:601][  5]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_4
+[2024.04.04-22.58.41:850][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.41:850][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-22.58.41:852][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_5
+[2024.04.04-22.58.41:853][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_5
+[2024.04.04-22.58.52:833][899]Cmd: DELETE
+[2024.04.04-22.58.52:833][899]Cmd: ACTOR DELETE
+[2024.04.04-22.58.52:836][899]LogEditorActor: Deleted Actor: Stake_Trap_C
+[2024.04.04-22.58.52:852][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.04-22.58.52:856][899]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.04.04-23.00.20:081][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2024.04.04-23.00.20:087][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2024.04.04-23.00.20:097][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2024.04.04-23.00.20:098][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim, at AnimationSequence/a5e988c5bb87518026afcb759af4ef25e1732756
+[2024.04.04-23.00.20:106][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2024.04.04-23.00.20:106][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim, at AnimationSequence/78d59f76b321cd04f7ee5c0f8bad1d0ddeb943f8
+[2024.04.04-23.00.20:112][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim, at AnimationSequence/2b35e2cb64a6dd08d03abcbb3968c6aadab948b4
+[2024.04.04-23.00.20:115][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2024.04.04-23.00.20:121][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim, at AnimationSequence/659595a81ebe13fc448f5ee9f5593fdc0e53a749
+[2024.04.04-23.00.20:122][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim, at AnimationSequence/7377f7608ecc76bb5c79adabab43d379a2e6f1cf
+[2024.04.04-23.00.20:123][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2024.04.04-23.00.20:131][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim, at AnimationSequence/578caae2f8a3debbaede49d32eaf475b270cc1c4
+[2024.04.04-23.00.20:133][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2024.04.04-23.00.20:141][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2024.04.04-23.00.20:144][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim, at AnimationSequence/b15e2b4b7796776b184bec51aacfa31c4ed9cac3
+[2024.04.04-23.00.20:150][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2024.04.04-23.00.20:153][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim, at AnimationSequence/975da6e8e8fa318fac61743dfcb1cf1c0ce04e00
+[2024.04.04-23.00.20:159][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2024.04.04-23.00.20:169][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2024.04.04-23.00.20:175][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim, at AnimationSequence/95e19179becc18adb362d7da4d42a2a9cd41bb08
+[2024.04.04-23.00.20:179][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2024.04.04-23.00.20:184][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim, at AnimationSequence/d0de5e06982b87c8e6ef54851661065dc7f34c39
+[2024.04.04-23.00.20:191][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2024.04.04-23.00.20:202][916]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2024.04.04-23.00.20:204][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim, at AnimationSequence/c91c455a39441de3d27b785b1fc78f7b50cbb8db
+[2024.04.04-23.00.20:214][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim, at AnimationSequence/270756baf0b53ee28aa3184391bcb6f200d07cb7
+[2024.04.04-23.00.20:221][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim, at AnimationSequence/59fe4ef2a8d385fd7a78b0baea4765cc6c147a8c
+[2024.04.04-23.00.20:228][916]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim, at AnimationSequence/e3d3477a0e39ce7a8a0059f07fafe48c185b65bb
+[2024.04.04-23.00.20:229][916]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2024.04.04-23.00.20:267][916]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.04.04-23.00.21:257][916]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.04.04-23.00.23:198][916]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2024.04.04-23.00.23:198][916]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2024.04.04-23.00.26:591][916]LogSkeletalMesh: Built Skeletal Mesh [6.36s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2024.04.04-23.00.26:752][922]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.00.29:280][211]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-23.00.29:308][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.04-23.02.02:513][799]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-23.02.02:537][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.04-23.02.04:043][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.02.04:121][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-23.02.04:125][842]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-23.02.04:126][842]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_Trap9B70CAE14D510D908410FEBAADE99A0D.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-23.02.04:133][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 4.03 sec)
+[2024.04.04-23.02.04:134][842]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-23.02.04:134][842]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-23.02.05:334][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.02.05:361][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-23.02.05:394][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.04-23.02.05:430][923]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-23.02.05:431][923]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab16172C32740A49A321644418F3151EF33.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-23.02.05:436][923]LogFileHelpers: Saving map 'Lab1' took 0.076
+[2024.04.04-23.02.05:443][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 4.14 sec)
+[2024.04.04-23.02.05:445][923]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-23.02.05:445][923]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-23.02.06:189][981]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-23.02.06:195][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-23.02.06:195][981]PIE: New page: PIE session: Lab1 (5 Nis 2024 05:02:06)
+[2024.04.04-23.02.06:218][981]LogPlayLevel: Display: Creating online subsystem for client :Context_60
+[2024.04.04-23.02.06:221][981]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.04.04-23.02.06:261][982]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.04-23.02.06:271][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009572s)
+[2024.04.04-23.02.06:271][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.009623s)
+[2024.04.04-23.02.06:285][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.04-23.02.06:286][982]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.02.06:287][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.02.06:287][982]LogAIModule: Creating AISystem for world Lab1
+[2024.04.04-23.02.06:288][982]LogPlayLevel: PIE: World Init took: (0.002099s)
+[2024.04.04-23.02.06:288][982]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.04.04-23.02.06:289][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-23.02.06:289][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-23.02.06:289][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-23.02.06:289][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-23.02.06:289][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-23.02.06:289][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-23.02.06:289][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-23.02.06:289][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-23.02.06:290][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-23.02.06:290][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-23.02.06:290][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-23.02.06:292][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-23.02.06:312][982]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.04-23.02.06:312][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-23.02.06:312][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-23.02.06:312][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-23.02.06:313][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.04.04-23.02.06:313][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=32
+[2024.04.04-23.02.06:315][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.04.04-23.02.06:315][982]LogInit: FAudioDevice initialized with ID 32.
+[2024.04.04-23.02.06:315][982]LogAudio: Display: Audio Device (ID: 32) registered with world 'Lab1'.
+[2024.04.04-23.02.06:315][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.04.04-23.02.06:315][982]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.04.04-23.02.06:318][982]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.04-23.02.06:326][982]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.05-02.02.06
+[2024.04.04-23.02.06:326][982]LogWorld: Bringing up level for play took: 0.007025
+[2024.04.04-23.02.06:331][982]PIE: Server logged in
+[2024.04.04-23.02.06:332][982]PIE: Play in editor total start time 0,137 seconds.
+[2024.04.04-23.02.16:038][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.02.16:038][596]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.04-23.02.16:038][596]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.02.16:039][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.02.16:043][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-23.02.16:048][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.02.16:060][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.02.16:060][596]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.04.04-23.02.16:061][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.04.04-23.02.16:062][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.04.04-23.02.16:071][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.04-23.02.16:130][597]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.04.04-23.02.23:786][149]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-23.02.23:786][149]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-23.02.23:788][149]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_6
+[2024.04.04-23.02.23:789][149]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_6
+[2024.04.04-23.02.24:512][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-23.02.24:512][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Traps/Stake/Stake_Trap.Stake_Trap_C
+[2024.04.04-23.02.24:514][181]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_7
+[2024.04.04-23.02.24:515][181]LogActorFactory: Actor Factory spawned Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap as actor: Stake_Trap_C /Game/Lab1.Lab1:PersistentLevel.Stake_Trap_C_7
+[2024.04.04-23.02.45:759][196]LogEditorTransaction: Undo Move Node
+[2024.04.04-23.02.46:172][210]LogEditorTransaction: Undo Add Node
+[2024.04.04-23.03.10:722][815]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-23.03.10:756][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.04.04-23.03.11:699][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.03.11:775][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-23.03.11:779][910]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-23.03.11:780][910]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_Trap4067D81E44C2147A9B241CB6F4706801.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-23.03.11:785][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 4.23 sec)
+[2024.04.04-23.03.11:786][910]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-23.03.11:786][910]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-23.03.13:303][  8]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim.SpikeTrap_HideAnimation_Anim
+[2024.04.04-23.03.13:306][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.03.13:306][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.03.13:313][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.03.13:517][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.03.13:517][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.03.13:671][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.03.13:671][  8]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.03.13:688][  8]LogViewport: Scene viewport resized to 1525x754, mode Windowed.
+[2024.04.04-23.03.13:710][  8]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.03.38:161][698]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.04-23.03.40:162][816]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.03.49:741][816]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2024.04.04-23.03.49:747][816]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2024.04.04-23.03.49:755][816]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2024.04.04-23.03.49:776][817]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2024.04.04-23.04.00:085][189]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Trap
+[2024.04.04-23.04.00:215][189]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2024.04.04-23.04.00:216][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.04.01:352][252]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Traps/Stake/ABP_Trap.ABP_Trap
+[2024.04.04-23.04.01:353][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.04.01:353][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.04.01:400][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.04.01:400][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.04.01:408][252]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.04-23.04.01:652][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.04.01:652][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.04.01:795][252]LogViewport: Scene viewport resized to 636x591, mode Windowed.
+[2024.04.04-23.05.18:464][  7]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.18:466][  7]LogBlueprint: Warning: [AssetLog] /Game/Traps/Stake/ABP_Trap.ABP_Trap: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.18:495][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.04-23.05.18:651][  9]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.04.04-23.05.25:663][234]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.25:665][234]LogBlueprint: Warning: [AssetLog] /Game/Traps/Stake/ABP_Trap.ABP_Trap: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.25:687][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.04-23.05.26:437][320]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.26:439][320]LogBlueprint: Warning: [AssetLog] /Game/Traps/Stake/ABP_Trap.ABP_Trap: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.26:462][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.04-23.05.43:224][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.05.43:265][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/ABP_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/ABP_Trap.uasset" SILENT=true
+[2024.04.04-23.05.43:272][993]LogSavePackage: Moving output files for package: /Game/Traps/Stake/ABP_Trap
+[2024.04.04-23.05.43:272][993]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/ABP_Trap7A77D80E4A1D87547B93BF8053EEFDD9.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/ABP_Trap.uasset'
+[2024.04.04-23.05.43:415][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 4.42 sec)
+[2024.04.04-23.05.43:416][993]AssetCheck: New page: Asset Save: ABP_Trap
+[2024.04.04-23.05.43:416][993]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Traps/Stake/ABP_Trap.ABP_Trap
+[2024.04.04-23.05.46:577][356]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.46:579][356]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.46:603][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.04-23.05.47:082][410]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.47:084][410]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.47:106][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.04-23.05.47:342][435]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.47:344][435]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.47:367][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.04-23.05.47:536][452]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.47:538][452]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.47:561][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.04.04-23.05.48:984][613]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.48:986][613]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.49:008][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.04-23.05.49:788][704]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.49:789][704]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.49:813][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.04-23.05.50:056][731]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.50:058][731]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.50:081][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.04-23.05.50:584][789]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.05.50:586][789]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.05.50:608][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.04-23.06.02:591][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.06.02:617][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-23.06.02:648][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.04-23.06.02:684][742]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-23.06.02:685][742]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab104B575834B0D540078502DAC87526084.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-23.06.02:690][742]LogFileHelpers: Saving map 'Lab1' took 0.073
+[2024.04.04-23.06.02:696][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 4.52 sec)
+[2024.04.04-23.06.02:698][742]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-23.06.02:698][742]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-23.06.15:822][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.06.15:895][948]LogSavePackage: Moving output files for package: /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim1
+[2024.04.04-23.06.15:895][948]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/SpikeTrap_HideAnimation_Anim1CCD9F1D84EB58C8FAC0A90B87765F80F.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/SpikeTrap_HideAnimation_Anim1.uasset'
+[2024.04.04-23.06.16:036][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 4.74 sec)
+[2024.04.04-23.06.16:312][948]AssetCheck: New page: Asset Save: SpikeTrap_HideAnimation_Anim1
+[2024.04.04-23.06.16:312][948]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Traps/Stake/SpikeTrap_HideAnimation_Anim1.SpikeTrap_HideAnimation_Anim1
+[2024.04.04-23.06.40:648][794]LogContentBrowser: Attempting asset rename: SpikeTrap_HideAnimation_Anim1 -> SpikeTrap_Idle
+[2024.04.04-23.06.41:143][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.06.41:171][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/SpikeTrap_Idle" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/SpikeTrap_Idle.uasset" SILENT=true
+[2024.04.04-23.06.41:178][794]LogSavePackage: Moving output files for package: /Game/Traps/Stake/SpikeTrap_Idle
+[2024.04.04-23.06.41:178][794]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/SpikeTrap_IdleEE690A984B182C98658D629D05A5D1C3.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/SpikeTrap_Idle.uasset'
+[2024.04.04-23.06.41:319][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 4.91 sec)
+[2024.04.04-23.06.41:498][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.04-23.06.41:511][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.04-23.06.41:522][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.04-23.06.41:639][794]SourceControl: rm 'Content/Traps/Stake/SpikeTrap_HideAnimation_Anim1.uasset'
+[2024.04.04-23.06.41:643][794]AssetCheck: New page: Asset Save: SpikeTrap_Idle
+[2024.04.04-23.06.41:643][794]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Traps/Stake/SpikeTrap_Idle.SpikeTrap_Idle
+[2024.04.04-23.06.46:012][  9]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Traps/Stake/SpikeTrap_Idle.SpikeTrap_Idle
+[2024.04.04-23.06.46:052][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.06.46:052][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.06.46:103][  9]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.06.46:104][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.06.47:542][135]LogViewport: Scene viewport resized to 1523x768, mode Windowed.
+[2024.04.04-23.06.47:613][137]LogViewport: Scene viewport resized to 623x277, mode Windowed.
+[2024.04.04-23.06.47:648][138]LogViewport: Scene viewport resized to 467x191, mode Windowed.
+[2024.04.04-23.06.47:717][141]LogViewport: Scene viewport resized to 1525x754, mode Windowed.
+[2024.04.04-23.06.47:882][154]LogViewport: Scene viewport resized to 1523x768, mode Windowed.
+[2024.04.04-23.06.47:916][155]LogViewport: Scene viewport resized to 1525x754, mode Windowed.
+[2024.04.04-23.07.08:509][569]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Traps/Stake/SpikeTrap_Idle.SpikeTrap_Idle
+[2024.04.04-23.07.08:510][569]LogAnimationCompression: Display: Storing compressed animation data for /Game/Traps/Stake/SpikeTrap_Idle.SpikeTrap_Idle, at AnimationSequence/0bbf5cf5ed9dfd986d2e782bb8d766f1cc6a2250
+[2024.04.04-23.07.12:905][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.07.12:935][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/SpikeTrap_Idle" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/SpikeTrap_Idle.uasset" SILENT=true
+[2024.04.04-23.07.12:942][ 12]LogSavePackage: Moving output files for package: /Game/Traps/Stake/SpikeTrap_Idle
+[2024.04.04-23.07.12:943][ 12]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/SpikeTrap_Idle0E5EE99C4609292095B08BAC9F1489B8.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/SpikeTrap_Idle.uasset'
+[2024.04.04-23.07.12:949][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 4.96 sec)
+[2024.04.04-23.07.12:950][ 12]AssetCheck: New page: Asset Save: SpikeTrap_Idle
+[2024.04.04-23.07.12:950][ 12]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Traps/Stake/SpikeTrap_Idle.SpikeTrap_Idle
+[2024.04.04-23.07.13:406][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.07.13:436][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/SpikeTrap_Idle" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/SpikeTrap_Idle.uasset" SILENT=true
+[2024.04.04-23.07.13:443][ 44]LogSavePackage: Moving output files for package: /Game/Traps/Stake/SpikeTrap_Idle
+[2024.04.04-23.07.13:443][ 44]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/SpikeTrap_Idle06740A2A48A0A23917795EBEA6B4A1A8.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/SpikeTrap_Idle.uasset'
+[2024.04.04-23.07.13:450][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 5.00 sec)
+[2024.04.04-23.07.13:451][ 44]AssetCheck: New page: Asset Save: SpikeTrap_Idle
+[2024.04.04-23.07.13:451][ 44]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Traps/Stake/SpikeTrap_Idle.SpikeTrap_Idle
+[2024.04.04-23.07.14:745][193]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.07.14:745][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.07.14:756][193]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.07.14:756][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.07.14:812][193]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.07.14:812][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.07.49:624][953]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.04.04-23.08.07:075][807]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.08.07:078][807]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.08.07:101][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.04-23.08.29:520][ 69]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.08.29:523][ 69]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.08.29:547][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.04-23.08.30:690][181]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.08.30:693][181]LogBlueprint: Warning: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\ABP_Trap.uasset: [Compiler] Idle - Spakes Saved to Spikes Up  will never be taken, please connect something to  Can Enter Transition
+[2024.04.04-23.08.30:716][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.04-23.09.00:276][478]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.09.00:308][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.04-23.10.47:355][857]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.10.47:387][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.04-23.11.06:136][712]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.11.06:170][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.04-23.11.44:227][884]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-23.11.44:236][884]LogBlueprint: Error: [AssetLog] C:\Users\PC\Documents\Unreal Projects\Midterm\Content\Traps\Stake\Stake_Trap.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.04.04-23.11.44:271][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.04-23.12.27:744][442]BlueprintLog: New page: Compile ABP_Trap
+[2024.04.04-23.12.27:773][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.04-23.12.27:791][442]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_135
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.27:837][443]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_136
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.27:852][444]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.27:860][445]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.27:879][446]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.27:919][447]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.27:951][448]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.27:981][449]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:013][450]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:037][451]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:045][452]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:053][453]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:061][454]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:070][455]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:078][456]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:087][457]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:095][458]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.28:103][459]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Trap_C_0
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.41:370][952]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-23.12.41:417][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.04-23.12.41:501][952]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_137
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.41:587][954]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_138
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.12.57:766][403]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.04.04-23.13.27:096][  0]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-23.13.27:141][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.04-23.13.27:220][  0]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_139
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.13.27:278][  2]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_140
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.13.27:951][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.13.28:033][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-23.13.28:038][ 73]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-23.13.28:038][ 73]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_TrapD75520C04FA810EEC25C528FA519BAC8.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-23.13.28:045][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.09 sec)
+[2024.04.04-23.13.28:046][ 73]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-23.13.28:047][ 73]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-23.13.41:259][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.13.41:286][172]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_141
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.13.41:293][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/ABP_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/ABP_Trap.uasset" SILENT=true
+[2024.04.04-23.13.41:304][172]LogSavePackage: Moving output files for package: /Game/Traps/Stake/ABP_Trap
+[2024.04.04-23.13.41:305][172]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/ABP_TrapFAED691B4F4213D5B9FACD8FBFAD1A37.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/ABP_Trap.uasset'
+[2024.04.04-23.13.41:311][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 5.15 sec)
+[2024.04.04-23.13.41:312][172]AssetCheck: New page: Asset Save: ABP_Trap
+[2024.04.04-23.13.41:312][172]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Traps/Stake/ABP_Trap.ABP_Trap
+[2024.04.04-23.13.41:328][174]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_142
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.13.42:490][257]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-23.13.42:501][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-23.13.42:501][257]PIE: New page: PIE session: Lab1 (5 Nis 2024 05:13:42)
+[2024.04.04-23.13.42:502][257]LogPlayLevel: Display: Creating online subsystem for client :Context_70
+[2024.04.04-23.13.42:503][257]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.04.04-23.13.42:536][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.04-23.13.42:545][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008894s)
+[2024.04.04-23.13.42:545][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.008938s)
+[2024.04.04-23.13.42:557][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.04-23.13.42:561][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.13.42:561][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.13.42:562][258]LogAIModule: Creating AISystem for world Lab1
+[2024.04.04-23.13.42:562][258]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2024.04.04-23.13.42:562][258]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.04.04-23.13.42:562][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-23.13.42:562][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-23.13.42:562][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-23.13.42:562][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-23.13.42:562][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-23.13.42:562][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-23.13.42:562][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-23.13.42:562][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-23.13.42:562][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-23.13.42:562][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-23.13.42:562][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-23.13.42:564][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-23.13.42:582][258]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.04-23.13.42:582][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-23.13.42:582][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-23.13.42:582][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-23.13.42:583][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.04.04-23.13.42:583][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=33
+[2024.04.04-23.13.42:585][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.04.04-23.13.42:585][258]LogInit: FAudioDevice initialized with ID 33.
+[2024.04.04-23.13.42:585][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.04.04-23.13.42:585][258]LogAudio: Display: Audio Device (ID: 33) registered with world 'Lab1'.
+[2024.04.04-23.13.42:585][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.04.04-23.13.42:588][258]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.04-23.13.42:594][258]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.05-02.13.42
+[2024.04.04-23.13.42:594][258]LogWorld: Bringing up level for play took: 0.006486
+[2024.04.04-23.13.42:599][258]PIE: Server logged in
+[2024.04.04-23.13.42:600][258]PIE: Play in editor total start time 0,105 seconds.
+[2024.04.04-23.13.52:457][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.13.52:457][885]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.04-23.13.52:457][885]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.13.52:458][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.13.52:474][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-23.13.52:478][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.13.52:490][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.04-23.13.52:490][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.04.04-23.13.52:490][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.04.04-23.13.52:492][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.04.04-23.13.52:495][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.13.52:499][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.04-23.13.52:561][886]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.04.04-23.15.51:398][379]BlueprintLog: New page: Compile Stake_Trap
+[2024.04.04-23.15.51:442][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.04-23.15.51:514][379]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_143
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.15.51:585][381]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_144
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.15.52:870][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.15.52:947][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-23.15.52:952][526]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-23.15.52:952][526]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_Trap51EB6EF24F2E85C37F988A83B6B01E04.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-23.15.52:957][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.23 sec)
+[2024.04.04-23.15.52:958][526]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-23.15.52:958][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-23.15.54:032][601]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.04-23.15.54:039][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.04-23.15.54:039][601]PIE: New page: PIE session: Lab1 (5 Nis 2024 05:15:54)
+[2024.04.04-23.15.54:041][601]LogPlayLevel: Display: Creating online subsystem for client :Context_71
+[2024.04.04-23.15.54:042][601]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.04.04-23.15.54:080][602]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Lab1
+[2024.04.04-23.15.54:090][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009533s)
+[2024.04.04-23.15.54:090][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Lab1.Lab1 to /Game/UEDPIE_0_Lab1.Lab1 (0.009572s)
+[2024.04.04-23.15.54:104][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.04-23.15.54:108][602]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.04-23.15.54:109][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.04-23.15.54:109][602]LogAIModule: Creating AISystem for world Lab1
+[2024.04.04-23.15.54:109][602]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2024.04.04-23.15.54:109][602]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.04.04-23.15.54:109][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.04-23.15.54:109][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.04-23.15.54:109][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.04-23.15.54:109][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.04-23.15.54:109][602]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.04-23.15.54:109][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.04-23.15.54:109][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.04-23.15.54:109][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.04-23.15.54:110][602]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.04-23.15.54:110][602]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.04-23.15.54:110][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.04-23.15.54:111][602]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.04-23.15.54:129][602]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Media (SteelSeries Sonar Virtual Audio Device)
+[2024.04.04-23.15.54:130][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.04-23.15.54:130][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.04-23.15.54:130][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.04-23.15.54:131][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.04.04-23.15.54:131][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=34
+[2024.04.04-23.15.54:133][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.04.04-23.15.54:133][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.04.04-23.15.54:133][602]LogInit: FAudioDevice initialized with ID 34.
+[2024.04.04-23.15.54:133][602]LogAudio: Display: Audio Device (ID: 34) registered with world 'Lab1'.
+[2024.04.04-23.15.54:133][602]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.04.04-23.15.54:136][602]LogLoad: Game class is 'BP_GameMode_C'
+[2024.04.04-23.15.54:143][602]LogWorld: Bringing World /Game/UEDPIE_0_Lab1.Lab1 up for play (max tick rate 0) at 2024.04.05-02.15.54
+[2024.04.04-23.15.54:143][602]LogWorld: Bringing up level for play took: 0.006825
+[2024.04.04-23.15.54:149][602]PIE: Server logged in
+[2024.04.04-23.15.54:150][602]PIE: Play in editor total start time 0,112 seconds.
+[2024.04.04-23.16.04:868][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.16.04:868][298]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Lab1
+[2024.04.04-23.16.04:868][298]LogWorld: UWorld::CleanupWorld for Lab1, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.16.04:869][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.16.04:883][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.04-23.16.04:887][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.16.04:898][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.04-23.16.04:899][298]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.04.04-23.16.04:899][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.04.04-23.16.04:900][298]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.04.04-23.16.04:903][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.04-23.16.04:908][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.04-23.16.04:970][299]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.04.04-23.16.08:327][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.16.08:358][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lab1" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.04-23.16.08:389][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.04-23.16.08:425][550]LogSavePackage: Moving output files for package: /Game/Lab1
+[2024.04.04-23.16.08:425][550]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Lab12C73036C4A8ADDBAB0A1AEB08A62E5C3.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Lab1.umap'
+[2024.04.04-23.16.08:430][550]LogFileHelpers: Saving map 'Lab1' took 0.072
+[2024.04.04-23.16.08:436][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 5.34 sec)
+[2024.04.04-23.16.08:438][550]AssetCheck: New page: Asset Save: Lab1
+[2024.04.04-23.16.08:438][550]LogContentValidation: Display: Validating /Script/Engine.World /Game/Lab1.Lab1
+[2024.04.04-23.16.09:833][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.16.09:857][673]LogScript: Warning: Accessed None trying to read property As Stake Trap
+	ABP_Trap_C /Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Trap_C_145
+	Function /Game/Traps/Stake/ABP_Trap.ABP_Trap_C:ExecuteUbergraph_ABP_Trap:0021
+[2024.04.04-23.16.09:865][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/ABP_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/ABP_Trap.uasset" SILENT=true
+[2024.04.04-23.16.09:875][673]LogSavePackage: Moving output files for package: /Game/Traps/Stake/ABP_Trap
+[2024.04.04-23.16.09:876][673]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/ABP_TrapB14A6BD74A4087A56AC5498863F96BEC.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/ABP_Trap.uasset'
+[2024.04.04-23.16.09:882][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 5.39 sec)
+[2024.04.04-23.16.09:884][673]AssetCheck: New page: Asset Save: ABP_Trap
+[2024.04.04-23.16.09:884][673]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Traps/Stake/ABP_Trap.ABP_Trap
+[2024.04.04-23.16.10:668][763]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.16.10:668][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.16.10:683][763]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.16.10:683][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.16.10:749][763]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.16.10:749][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.16.12:845][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.04-23.16.12:871][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Traps/Stake/Stake_Trap" FILE="../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset" SILENT=true
+[2024.04.04-23.16.12:875][927]LogSavePackage: Moving output files for package: /Game/Traps/Stake/Stake_Trap
+[2024.04.04-23.16.12:876][927]LogSavePackage: Moving '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Saved/Stake_Trap5695B8F545441E1DB436AA97EF075164.tmp' to '../../../../../../Users/PC/Documents/Unreal Projects/Midterm/Content/Traps/Stake/Stake_Trap.uasset'
+[2024.04.04-23.16.12:882][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 5.43 sec)
+[2024.04.04-23.16.12:883][927]AssetCheck: New page: Asset Save: Stake_Trap
+[2024.04.04-23.16.12:883][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Traps/Stake/Stake_Trap.Stake_Trap
+[2024.04.04-23.16.13:446][990]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.16.13:446][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.16.14:139][ 33]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.04-23.16.14:139][ 33]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.16.14:139][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.16.14:699][ 62]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.04-23.16.14:699][ 62]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.16.14:699][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.04-23.16.15:197][ 86]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.04-23.16.15:197][ 86]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.04-23.16.15:197][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
